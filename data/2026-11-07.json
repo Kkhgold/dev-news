@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-07",
+  "weekday": "토요일",
+  "picks": [
+    "AI 에이전트가 못 푼 코드를 고치는 직업 'Software Line Specialist' 등장",
+    "Opus에게 도움을 요청하는 모델이 Opus급 정확도를 4배 낮은 비용으로 달성 (HN 499점)",
+    "테슬라 사이버트럭 생산 종료 소식이 HN 1위 (1,030점)"
+  ],
+  "items": [
+    {"src": "HN", "title": "Tesla to wind down Cybertruck production", "ko": "테슬라, 사이버트럭 생산 단계적 종료", "tag": "테크", "url": "https://news.ycombinator.com/item?id=50391456", "score": 1030},
+    {"src": "GN", "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자", "ko": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자", "tag": "AI", "url": "https://news.hada.io/topic?id=36742"},
+    {"src": "HN", "title": "Libghostty 1.0", "ko": "Libghostty 1.0 출시 (Ghostty 터미널 라이브러리)", "tag": "개발", "url": "https://news.ycombinator.com/item?id=50399933", "score": 695},
+    {"src": "HN", "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost", "ko": "Opus에게 도움을 요청할 수 있는 모델, Opus급 정확도를 4배 낮은 비용으로", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50397429", "score": 499},
+    {"src": "GN", "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인", "ko": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인", "tag": "AI", "url": "https://news.hada.io/topic?id=36737"},
+    {"src": "HN", "title": "US FAA says it will phase out floppy disks from air traffic control by 2028", "ko": "미 연방항공청, 2028년까지 항공관제에서 플로피디스크 퇴출", "tag": "테크", "url": "https://news.ycombinator.com/item?id=50388001", "score": 346},
+    {"src": "HN", "title": "Gemini Omni 1.2 Flash", "ko": "구글 Gemini Omni 1.2 Flash 공개", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50392118", "score": 340},
+    {"src": "GN", "title": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접", "ko": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접", "tag": "하드웨어", "url": "https://news.hada.io/topic?id=36740"},
+    {"src": "HN", "title": "AI is dramatically accelerating AI research", "ko": "AI가 AI 연구를 극적으로 가속하고 있다", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50397994", "score": 318},
+    {"src": "GN", "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구", "ko": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구", "tag": "AI", "url": "https://news.hada.io/topic?id=36741"},
+    {"src": "GN", "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱", "ko": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱", "tag": "개발", "url": "https://news.hada.io/topic?id=36738"}
+  ]
+}
