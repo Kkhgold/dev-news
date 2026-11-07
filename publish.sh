@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # 개발 뉴스를 GitHub(공개 저장소 dev-news)에 올리고 GitHub Pages 를 켭니다.
 set -e
-GH="/c/Program Files/GitHub CLI/gh.exe"
-cd /c/Users/kkhss/Documents/dev-news
+GH="$(command -v gh || echo /c/Program Files/GitHub CLI/gh.exe)"
+cd "$(dirname "$0")"
 
 [ -d .git ] || git init -q -b main
 printf 'kakao.txt\n__pycache__/\n' > .gitignore

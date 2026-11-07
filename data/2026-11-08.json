@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-08",
+  "weekday": "일요일",
+  "picks": [
+    "감염 사이트 15,579곳을 찾았지만 알릴 방법이 없다는 Report URI 글 (긱뉴스)",
+    "GitHub, Git 트래픽 절반을 Azure로 옮긴 이전기 공개 (긱뉴스)",
+    "테슬라 사이버트럭 생산 종료 소식이 이틀째 HN 1위 (1,076점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Tesla to wind down Cybertruck production",
+      "ko": "테슬라, 사이버트럭 생산 단계적 종료",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50391456",
+      "score": 1076,
+      "sum": [
+        "머스크, 텍사스 기가팩토리 사이버트럭 생산을 2027년 중반쯤 중단한다고 밝힘",
+        "생산 라인은 로보택시 '사이버캡' 증산에 쓰일 예정",
+        "작년 미국 판매 20,237대로 전년보다 48% 감소",
+        "머스크가 예측한 연 25만 대에 크게 못 미침"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "웹사이트 1만 5천 곳이 감염된 것을 알고 있다. 어떻게 알려야 할까?",
+      "ko": "웹사이트 1만 5천 곳이 감염된 것을 알고 있다. 어떻게 알려야 할까?",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=36755",
+      "sum": [
+        "Report URI, 악성 JS 감염 사이트 15,579곳 확인",
+        "감염 사이트 월 방문 수 1억 3,500만 회 이상(보수적 추산)",
+        "카드 탈취·ClickFix·악성 리디렉션 등, WordPress 취약점이 주 경로",
+        "연락처 부족·WHOIS 무력화로 통보가 어려워 방법 제안 요청"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Libghostty 1.0",
+      "ko": "Libghostty 1.0 출시 (Ghostty 터미널 라이브러리)",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50399933",
+      "score": 838,
+      "sum": [
+        "libghostty-vt 1.0 출시, 라이브러리와 C ABI 안정화",
+        "JetBrains IDE 터미널이 libghostty 기반으로 전환, 활성 사용자 1,250만+",
+        "모든 변경을 CI에서 libabigail로 ABI 호환성 검사",
+        "Linux·macOS·Windows·Android·WebAssembly 지원, MIT 라이선스"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "에이전트 규모의 Git 인프라로 가는 가교 - GitHub의 Azure 이전기",
+      "ko": "에이전트 규모의 Git 인프라로 가는 가교 - GitHub의 Azure 이전기",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36753",
+      "sum": [
+        "Azure가 이미 GitHub Git 트래픽의 약 절반을 처리",
+        "약 1,000마일 거리·왕복 25ms 지연이 쓰기 처리량 병목",
+        "참조별 직렬화로 내부 테스트 처리량 3~4배 향상",
+        "하루 1,000억 회 이상 작업, 목표는 저장소 10억 개 운영"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "ko": "Opus에게 도움을 요청할 수 있는 모델, Opus급 정확도를 4배 낮은 비용으로",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50397429",
+      "score": 528,
+      "sum": [
+        "Jev: 0~1 신뢰도 점수를 내는 빠르고 저렴한 판단 모델 (Hightouch)",
+        "Jev가 먼저 판단하고 애매한 건만 Opus에 넘기는 하이브리드 방식",
+        "쉬운 테스트: 정확도 98.8%(Opus 99.0%), 1,000건당 $0.88 vs $3.86",
+        "어려운 테스트: 95.3%로 Opus(95.1%)보다 높고 비용은 $2.94 vs $5.39"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Pangram Image 1.0 - AI 생성 이미지와 영상 탐지 모델 출시",
+      "ko": "Pangram Image 1.0 - AI 생성 이미지와 영상 탐지 모델 출시",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36757",
+      "sum": [
+        "이미지 탐지 Image 1.0·영상 탐지 Flash 1.0 출시",
+        "자체 평가: 합성 이미지 1,200장에서 정확도 99.96%",
+        "Flash 1.0은 DF26 벤치마크 98.7%, 차순위보다 29%p 높음",
+        "히트맵으로 AI 생성 영역 표시, Chrome 확장·API 제공"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Git 다음에는 무엇이 올까",
+      "ko": "Git 다음에는 무엇이 올까",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36752",
+      "sum": [
+        "ERSC, git 클라이언트·프로토콜 유지하고 서버 저장 엔진만 교체",
+        "AI 에이전트 병렬 작업으로 저장소·브랜치·병합 경합 증가가 배경",
+        "팀원이 Git 또는 Jujutsu(jj) 클라이언트를 골라 사용 가능",
+        "저장소 먼저 제공, 리뷰·CI는 외부 도구와 조합 + GraphQL API"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "ko": "미 연방항공청, 2028년까지 항공관제에서 플로피디스크 퇴출",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50388001",
+      "score": 367,
+      "sum": [
+        "로이터 원문은 접근이 막혀 제목만 정리했어요",
+        "미 연방항공청(FAA)이 2028년까지 항공관제 시스템에서 플로피디스크를 없애겠다고 발표"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Gemini Omni 1.2 Flash",
+      "ko": "구글 Gemini Omni 1.2 Flash 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50392118",
+      "score": 351,
+      "sum": [
+        "15초 영상 생성·편집 지원 (1.1은 10초)",
+        "가격 30% 인하, 720p 영상 초당 $0.07",
+        "대화형 다중 턴 편집, 참조 이미지 반영 개선",
+        "Gemini API·Google Cloud 정식 출시, Google Vids 등에서도 사용"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Need for Speed Underground 2, 브라우저에서 온라인으로 플레이",
+      "ko": "Need for Speed Underground 2, 브라우저에서 온라인으로 플레이",
+      "tag": "게임",
+      "url": "https://news.hada.io/topic?id=36754",
+      "score": 325,
+      "sum": [
+        "원작 PC 코드를 재컴파일한 팬 프로젝트, EA 승인 없음",
+        "Chrome·Firefox에서 실행, 레이스 최대 120fps",
+        "EA 로그인 없이 온라인 로비·레이스, 2~4인 화면 분할",
+        "소스 GitHub 공개, 유료 요소 없고 Ko-fi 후원만 받음 (HN 325점)"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "11년간 오픈소스 기능 플래그 서버를 만들어 왔습니다",
+      "ko": "11년간 오픈소스 기능 플래그 서버를 만들어 왔습니다 (Unleash)",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36756",
+      "sum": [
+        "Unleash: 기능 공개 시점·대상을 제어하는 오픈소스 도구",
+        "10%·50% 단계적 공개, 문제 시 재배포 없이 끄기 가능",
+        "Go·Java·Python·Rust·iOS·Android 등 SDK 지원",
+        "Docker로 자체 호스팅 가능, 라이선스 AGPL-3.0-or-later"
+      ]
+    }
+  ]
+}
