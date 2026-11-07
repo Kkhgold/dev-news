@@ -2,21 +2,157 @@
   "date": "2026-11-07",
   "weekday": "토요일",
   "picks": [
-    "AI 에이전트가 못 푼 코드를 고치는 직업 'Software Line Specialist' 등장",
+    "AI가 못 푼 버그만 고치는 개발자를 뽑는다는 풍자 채용 공고가 화제 (긱뉴스)",
     "Opus에게 도움을 요청하는 모델이 Opus급 정확도를 4배 낮은 비용으로 달성 (HN 499점)",
     "테슬라 사이버트럭 생산 종료 소식이 HN 1위 (1,030점)"
   ],
   "items": [
-    {"src": "HN", "title": "Tesla to wind down Cybertruck production", "ko": "테슬라, 사이버트럭 생산 단계적 종료", "tag": "테크", "url": "https://news.ycombinator.com/item?id=50391456", "score": 1030},
-    {"src": "GN", "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자", "ko": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자", "tag": "AI", "url": "https://news.hada.io/topic?id=36742"},
-    {"src": "HN", "title": "Libghostty 1.0", "ko": "Libghostty 1.0 출시 (Ghostty 터미널 라이브러리)", "tag": "개발", "url": "https://news.ycombinator.com/item?id=50399933", "score": 695},
-    {"src": "HN", "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost", "ko": "Opus에게 도움을 요청할 수 있는 모델, Opus급 정확도를 4배 낮은 비용으로", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50397429", "score": 499},
-    {"src": "GN", "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인", "ko": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인", "tag": "AI", "url": "https://news.hada.io/topic?id=36737"},
-    {"src": "HN", "title": "US FAA says it will phase out floppy disks from air traffic control by 2028", "ko": "미 연방항공청, 2028년까지 항공관제에서 플로피디스크 퇴출", "tag": "테크", "url": "https://news.ycombinator.com/item?id=50388001", "score": 346},
-    {"src": "HN", "title": "Gemini Omni 1.2 Flash", "ko": "구글 Gemini Omni 1.2 Flash 공개", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50392118", "score": 340},
-    {"src": "GN", "title": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접", "ko": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접", "tag": "하드웨어", "url": "https://news.hada.io/topic?id=36740"},
-    {"src": "HN", "title": "AI is dramatically accelerating AI research", "ko": "AI가 AI 연구를 극적으로 가속하고 있다", "tag": "AI", "url": "https://news.ycombinator.com/item?id=50397994", "score": 318},
-    {"src": "GN", "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구", "ko": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구", "tag": "AI", "url": "https://news.hada.io/topic?id=36741"},
-    {"src": "GN", "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱", "ko": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱", "tag": "개발", "url": "https://news.hada.io/topic?id=36738"}
+    {
+      "src": "HN",
+      "title": "Tesla to wind down Cybertruck production",
+      "ko": "테슬라, 사이버트럭 생산 단계적 종료",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50391456",
+      "score": 1030,
+      "sum": [
+        "머스크, 텍사스 기가팩토리 사이버트럭 생산을 2027년 중반쯤 중단한다고 밝힘",
+        "생산 라인은 로보택시 '사이버캡' 증산에 쓰일 예정",
+        "작년 미국 판매 20,237대로 전년보다 48% 감소",
+        "머스크가 예측한 연 25만 대에 크게 못 미침"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
+      "ko": "Software Line Specialist - AI 에이전트가 해결하지 못한 코드 문제를 고치는 개발자",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36742",
+      "sum": [
+        "가상의 회사 ACME Inc.의 '풍자' 채용 공고",
+        "AI가 못 푼 문제를 코드·로그·DB까지 직접 추적해 고치는 TypeScript 개발자",
+        "2022년 이전 경력 5년, 종이 시험과 AI 없는 실시간 디버깅 요구",
+        "병렬 개발 회사에서 이 직무만 한 문제에 며칠씩 집중 가능"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Libghostty 1.0",
+      "ko": "Libghostty 1.0 출시 (Ghostty 터미널 라이브러리)",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50399933",
+      "score": 695,
+      "sum": [
+        "libghostty-vt 1.0 출시, 라이브러리와 C ABI 안정화",
+        "JetBrains IDE 터미널이 libghostty 기반으로 전환, 활성 사용자 1,250만+",
+        "모든 변경을 CI에서 libabigail로 ABI 호환성 검사",
+        "Linux·macOS·Windows·Android·WebAssembly 지원, MIT 라이선스"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "ko": "Opus에게 도움을 요청할 수 있는 모델, Opus급 정확도를 4배 낮은 비용으로",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50397429",
+      "score": 499,
+      "sum": [
+        "Jev: 0~1 신뢰도 점수를 내는 빠르고 저렴한 판단 모델 (Hightouch)",
+        "Jev가 먼저 판단하고 애매한 건만 Opus에 넘기는 하이브리드 방식",
+        "쉬운 테스트: 정확도 98.8%(Opus 99.0%), 1,000건당 $0.88 vs $3.86",
+        "어려운 테스트: 95.3%로 Opus(95.1%)보다 높고 비용은 $2.94 vs $5.39"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+      "ko": "Show GN: Heirmos – Claude Code와 Codex가 같은 기억을 쓰게 하는 플러그인",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36737",
+      "sum": [
+        "Claude Code·Codex 등 여러 에이전트가 같은 기억을 공유하는 플러그인",
+        "세션 종료·컨텍스트 압축 때 결정·선호·규칙을 뽑아 저장, 다음 세션에 주입",
+        "프롬프트·답변 본문만 전송, 키 형태 문자열은 로컬에서 삭제 (처리는 OpenAI API)",
+        "1인 개발 초기 단계, 테스트 기간 무료"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "ko": "미 연방항공청, 2028년까지 항공관제에서 플로피디스크 퇴출",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50388001",
+      "score": 346,
+      "sum": [
+        "로이터 원문은 접근이 막혀 제목만 정리했어요",
+        "미 연방항공청(FAA)이 2028년까지 항공관제 시스템에서 플로피디스크를 없애겠다고 발표"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Gemini Omni 1.2 Flash",
+      "ko": "구글 Gemini Omni 1.2 Flash 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50392118",
+      "score": 340,
+      "sum": [
+        "15초 영상 생성·편집 지원 (1.1은 10초)",
+        "가격 30% 인하, 720p 영상 초당 $0.07",
+        "대화형 다중 턴 편집, 참조 이미지 반영 개선",
+        "Gemini API·Google Cloud 정식 출시, Google Vids 등에서도 사용"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접",
+      "ko": "나트륨이온 배터리, LFP와 비용 동등 수준에 근접",
+      "tag": "하드웨어",
+      "url": "https://news.hada.io/topic?id=36740",
+      "sum": [
+        "나트륨이온 배터리 공급 계약 전 세계 70GWh 이상 (Wood Mackenzie)",
+        "셀 비용은 2026년 말 LFP와 같아질 전망, 모듈·시스템은 2030년 이후",
+        "초기 229달러/kWh로 LFP(약 200달러)보다 비싸지만 20년 총비용은 21% 낮을 수도",
+        "2~4시간 저장용으로는 아직 LFP가 가장 성숙한 선택지"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AI is dramatically accelerating AI research",
+      "ko": "AI가 AI 연구를 극적으로 가속하고 있다",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50397994",
+      "score": 318,
+      "sum": [
+        "Anthropic의 발전 속도가 직전 12개월 대비 약 2배라는 보고 (2025.10~2026.10)",
+        "METR는 가속 대부분이 AI 자동화 덕분으로 추정, 근거 일부는 비공개",
+        "연구 인력 효율 약 10배 상승 추정, 내부 직원 자가보고는 약 12배",
+        "단순 외삽 시 1년 내 초지능 가능성, 업계의 보안·안전 대비는 미흡하다고 지적"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
+      "ko": "Show GN: 그레이아이 - 검수를 거쳐야 발행이 열리는 네이버·티스토리용 AI 블로그 초안 도구",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36741",
+      "sum": [
+        "사람이 검수해야 발행이 열리는 블로그 초안 도구, 1인 개발 베타",
+        "네이버 검색광고 API로 검색량·경쟁도와 보조 지표 '꿀지수' 제공",
+        "양식·페르소나 선택, 문단 단위 재생성, 서식 유지 복사 지원",
+        "자동 발행 없음, 선불 크레딧 방식(테스트 모드)"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+      "ko": "Show GN: RepUnlock – 카메라로 스쿼트를 세어 SNS 잠금을 푸는 안드로이드 앱",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36738",
+      "sum": [
+        "잠근 앱을 열려면 카메라 앞에서 운동해 시간을 적립하는 안드로이드 앱",
+        "스쿼트 15회=10분, 푸시업 10회=10분, 플랭크 30초=5분",
+        "자세 인식은 기기 안에서만 처리, 영상 저장·전송 없음",
+        "무료는 앱 1개·스쿼트만, 몸 전체가 화면에 보여야 인식"
+      ]
+    }
   ]
 }

@@ -38,7 +38,9 @@ CSS = r"""
 .item:hover{transform:translateY(-2px);border-color:var(--accent)}
 .rk{flex:0 0 28px;height:28px;border-radius:8px;display:grid;place-items:center;font-weight:800;font-size:.85rem;color:#fff}
 .rk.GN{background:var(--gn)}.rk.HN{background:var(--hn)}
-.ko{font-weight:700;font-size:.98rem}.orig{color:var(--muted);font-size:.8rem;margin-top:2px}
+.ko{font-weight:700;font-size:.98rem}
+.sum{margin:8px 0 0;padding-left:18px;color:var(--text-2);font-size:.9rem}.sum li{margin:3px 0}
+.item>div{min-width:0;flex:1}.orig{color:var(--muted);font-size:.8rem;margin-top:2px}
 .meta{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}.chip{background:var(--chip);color:var(--text-2);border-radius:999px;padding:1px 9px;font-size:.75rem;font-weight:600}
 .legend{display:flex;gap:14px;color:var(--muted);font-size:.8rem;margin:4px 0 10px}.legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
 .arch a{display:inline-block;background:var(--chip);color:var(--text);text-decoration:none;border-radius:999px;padding:4px 12px;margin:3px 4px 3px 0;font-size:.85rem}
@@ -78,9 +80,10 @@ def render(d, archive):
             meta += f"<span class='chip'>#{esc(it['tag'])}</span>"
         if it.get("score"):
             meta += f"<span class='chip'>▲ {esc(it['score'])}점</span>"
+        sumh = ("<ul class='sum'>" + "".join(f"<li>{esc(x)}</li>" for x in it["sum"]) + "</ul>") if it.get("sum") else ""
         orig = f"<div class='orig'>{esc(it['title'])}</div>" if it.get("title") and it.get("title") != it.get("ko") else ""
         rows += (f"<a class='item' href='{esc(it['url'])}' target='_blank' rel='noopener' data-src='{src}' data-tag='{esc(it.get('tag', ''))}'>"
-                 f"<span class='rk {src}'>{i}</span><div><div class='ko'>{esc(it.get('ko') or it['title'])}</div>{orig}<div class='meta'>{meta}</div></div></a>")
+                 f"<span class='rk {src}'>{i}</span><div><div class='ko'>{esc(it.get('ko') or it['title'])}</div>{orig}{sumh}<div class='meta'>{meta}</div></div></a>")
     picks = ""
     if d.get("picks"):
         picks = "<div class='picks'><h2>⚡ 오늘의 포인트</h2><ul>" + "".join(f"<li>{esc(x)}</li>" for x in d["picks"]) + "</ul></div>"
@@ -91,10 +94,10 @@ def render(d, archive):
             f"<title>개발 뉴스</title><meta name='description' content='개발·AI 뉴스 {esc(d['date'])}'>"
             f"<meta property='og:title' content='🧑‍💻 개발·AI 뉴스 {esc(d['date'])}'><style>{CSS}</style></head><body>"
             f"<header class='hero'><div class='in'><div class='kicker'>DEV &amp; AI DAILY</div><h1>🧑‍💻 {esc(d['date'])} ({esc(d.get('weekday', ''))})</h1>"
-            "<p>긱뉴스 최신글 + Hacker News 인기글</p></div></header>"
+            "<p>긱뉴스 최신글 + Hacker News 인기글 · 기사 내용 한글 요약</p></div></header>"
             f"<nav class='tabbar' aria-label='필터'><div class='tb-in'>{''.join(btns)}</div></nav>"
             f"<main class='wrap'>{picks}<div class='legend'><span><i style='background:var(--gn)'></i>긱뉴스</span><span><i style='background:var(--hn)'></i>Hacker News</span></div>"
-            f"<div class='list'>{rows}</div>{arch}<footer>출처: GeekNews(news.hada.io) · Hacker News · 제목은 Claude가 번역했어요</footer></main>"
+            f"<div class='list'>{rows}</div>{arch}<footer>출처: GeekNews(news.hada.io) · Hacker News · 제목 번역·내용 요약은 Claude가 원문을 읽고 작성 · 전문은 원문 링크에서</footer></main>"
             f"<script>{JS}</script></body></html>")
 
 
