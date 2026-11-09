@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-09",
+  "weekday": "월요일",
+  "picks": [
+    "Claude Code 1년 사용자가 오픈소스 하네스 Pi로 갈아탄 후기가 HN 1위 (675점)",
+    "골드만삭스, Claude Code를 개발자 1.2만 명에게만 허용 (HN 542점)",
+    "Nvidia 이사회, 젠슨 황 관련 보도에 독립 조사 착수 (HN·긱뉴스 동시 화제)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Goodbye Claude, hello Pi",
+      "ko": "Claude Code를 떠나 Pi로 옮긴 이유",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50410107",
+      "score": 675,
+      "sum": [
+        "1년 넘게 쓴 Claude Code 대신 오픈소스 하네스 Pi(pi.dev)로 전환한 개인 후기",
+        "올해 244번 릴리스 중 3/4 이상이 시스템 프롬프트·도구 설명을 바꿈",
+        "기본 Bash 도구 설명만 약 3,000토큰이라 부담이라고 지적",
+        "VSCode 다중 세션 버그 등 작은 불만이 쌓인 것이 이유라고 설명"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "ko": "Claude Code '다시 묻지 않기'로 공개 GitHub 파일 1,122개에 비밀번호 노출",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50407882",
+      "score": 577,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "보안업체 Apiiro 블로그 글, 제목상 공개 파일 1,122개에서 노출 확인"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "ko": "골드만삭스, 뱅커·트레이더의 Claude Code 사용 중단",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50415628",
+      "score": 542,
+      "sum": [
+        "10월 내부 지침으로 Claude Code·GitHub를 엔지니어에게만 허용 (블룸버그 보도)",
+        "직원 약 4.7만 명 중 개발자 약 1.2만 명으로 대상 제한",
+        "4월엔 홍콩 뱅커용 내부 AI 플랫폼에서 Claude 제외 (FT 보도)",
+        "골드만은 Anthropic IPO 주관사로, 11월 중 나스닥 상장 예정"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "ko": "Llama-modchip: GPU 없이 64GB RAM에서 284B DeepSeek 실행",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50411961",
+      "score": 343,
+      "sum": [
+        "llama.cpp 패치·양자화 도구로 MoE 모델을 시스템 RAM에서만 실행",
+        "DeepSeek-V4-Flash를 76.87GiB→56.56GiB(1.71bpw)로 재압축",
+        "자체 측정 기준 디코드 9.1~14.7 tok/s, 프리필 약 44 tok/s",
+        "기준 장비는 64GB Zen 5 데스크톱(Ryzen 9 9955HX)"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "ko": "Nvidia 이사회, 젠슨 황 조사 착수",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50416801",
+      "score": 333,
+      "sum": [
+        "황 CEO가 외국 정보활동 표적이었다는 보도에 대한 공식 성명",
+        "독립 이사 위원회가 외부 변호인 도움을 받아 조사 진행",
+        "국가안보·회사 기밀 유출을 의심할 이유는 없다고 밝힘",
+        "황은 조사에 전적으로 협조하며 이사회는 신뢰를 유지"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Declarative Dragging",
+      "ko": "선언적 드래그 (UIST 2026 최우수 논문)",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50368481",
+      "score": 276,
+      "sum": [
+        "SVG 웹 UI에 모델 기반 드래그앤드롭을 더하는 Dragology 라이브러리",
+        "드래그로 도달할 모델 상태만 지정하면 엔진이 드롭 영역·애니메이션 생성",
+        "Horowitz·Blinn·Heer 공저, UIST 2026 최우수 논문상 수상",
+        "대수식 트리·카드 더미 등 데모 공개"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: ParalleLane - 워크트리 지원에 중점을 둔 Git 클라이언트",
+      "ko": "Show GN: ParalleLane - 워크트리 지원에 중점을 둔 Git 클라이언트",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36849",
+      "sum": [
+        "작성자가 직접 만든 Git 클라이언트를 소개하는 Show GN 글",
+        "사이드바에서 저장소·워크트리 관리, 저장소별 Git 계정 지정",
+        "워크트리 삭제 에러·계정 전환 불편 해결하려 약 5개월 개발",
+        "macOS(Apple Silicon)와 Windows 지원"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Nvidia CEO Jensen Huang이 불륜과 관련해 직원들에게 보낸 서한",
+      "ko": "Nvidia CEO Jensen Huang이 불륜과 관련해 직원들에게 보낸 서한",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=36848",
+      "sum": [
+        "중국 스파이 의심 인물과 연인 관계였음을 인정하고 가족에게 사과 (Axios)",
+        "자신의 행동에 전적인 책임을 지겠다고 밝힘",
+        "이사회가 국가안보 우려 관련 독립 조사에 착수",
+        "황은 CEO직을 중단 없이 계속 수행할 예정"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "국내 오픈소스 소액 지원 사업 'FOSS for All Microgrants 2026' 수혜 프로젝트 5곳",
+      "ko": "국내 오픈소스 소액 지원 사업 'FOSS for All Microgrants 2026' 수혜 프로젝트 5곳",
+      "tag": "오픈소스",
+      "url": "https://news.hada.io/topic?id=36847",
+      "sum": [
+        "FOSS for All이 올해 처음 연 기부금 모집·분배 사업 결과 발표",
+        "지원한 13곳 중 심사를 거쳐 5곳 선정",
+        "llvm-z80, Spine, Deskband11Lib, HornPenguin Booklet, Gukhanmun",
+        "지원 금액은 본문에 명시되지 않음"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "인기 앱의 광고, 경찰이 사용자를 감시하는 강력한 도구가 되다",
+      "ko": "인기 앱의 광고, 경찰이 사용자를 감시하는 강력한 도구가 되다",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=36845",
+      "sum": [
+        "Penlink의 Webloc, 앱 광고 위치 데이터로 수억 대 휴대전화 추적 (블룸버그)",
+        "최대 12개월 이동 이력을 매시간 갱신",
+        "ICE는 2022~2026년 관련 계약에 약 900만 달러 지출",
+        "미 법무부는 구매한 위치 데이터엔 영장 원칙 미적용으로 해석"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Dux: 파일 관리자와 테마 기능을 갖춘 무료 오픈소스 Wayland 데스크톱 셸",
+      "ko": "Dux: 파일 관리자와 테마 기능을 갖춘 무료 오픈소스 Wayland 데스크톱 셸",
+      "tag": "오픈소스",
+      "url": "https://news.hada.io/topic?id=36843",
+      "sum": [
+        "niri, Hyprland, Sway, labwc, MiracleWM용 Wayland 데스크톱 셸",
+        "파일 관리자·시스템 모니터·로그인 화면·검색·캘린더 도구 포함",
+        "자체 dank16 알고리즘으로 GTK·Qt 앱과 터미널 색 테마 생성",
+        "Fedora 기반 배포판 Zirconium 등도 제공"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "나는 AI로 인한 두뇌 과부하에 이렇게 대처한다",
+      "ko": "나는 AI로 인한 두뇌 과부하에 이렇게 대처한다",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36842",
+      "sum": [
+        "여러 AI 도구 동시 사용의 맥락 과부하를 다룬 개인 경험 에세이",
+        "티켓을 코드 옆 Markdown 파일로 Git에 저장해 작업 큐로 관리",
+        "에이전트는 조사·구현·테스트, 사람 판단 필요 건은 수신함에",
+        "산만함은 줄었지만 피로는 여전하다고 밝힘"
+      ]
+    }
+  ]
+}
