@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-10",
+  "weekday": "화요일",
+  "picks": [
+    "Anthropic, Claude Fable 5.2·Mythos 5.2 공개 (HN 1위 850점)",
+    "Fable 5.2, Artificial Analysis 지능 지수 역대 최고 65점 (긱뉴스)",
+    "구글 Gemini가 연결된 Drive·메일을 사람 검토자에게 보낸다는 주장 (HN·긱뉴스)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "ko": "Anthropic, Claude Fable 5.2·Mythos 5.2 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50429906",
+      "score": 850,
+      "sum": [
+        "가격은 입력 100만 토큰당 8달러, 출력 40달러",
+        "FrontierSWE v2 69.9%로 Opus 5.5(62.3%)보다 높음",
+        "출력 속도는 5.1 대비 최대 30% 빨라짐",
+        "Mythos 5.2는 검증 프로그램 통과 기관에만 제공"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Fold Epic Paper Airplanes",
+      "ko": "종이비행기 접기 사이트 Foldable Flight",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50424581",
+      "score": 809,
+      "sum": [
+        "종이비행기 설계도를 모은 사이트, 관련 상품도 판매",
+        "난이도·종류·용지 크기로 109개 설계 검색 가능",
+        "설계별 속도·활공·정확도 평가 제공",
+        "Unite 설계가 체공 시간 세계기록 31.2초 보유"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "ko": "Opus 5.5 성능 저하? 11월 3일부터 사고 패턴 변화 주장",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50422069",
+      "score": 716,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "X(트위터) 개인 게시물, 제목상 11월 3일 이후 변화 주장"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "ko": "캐나다, 실시간 결제망 Real-Time Rail 출시",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50427362",
+      "score": 444,
+      "sum": [
+        "11월 9일 출시, 연중무휴 24시간 실시간 청산·결제",
+        "G7 최초로 출시 시점에 중앙 사기 방지·수취인 확인 의무화",
+        "C.D. Howe 연구소, 최대 145억 달러 비용 절감 전망",
+        "1년 내 캐나다인 90% 이상 이용 가능 목표"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "ko": "USPS, 공식 우편번호 경계 폴리곤 제공 시작",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50431058",
+      "score": 386,
+      "sum": [
+        "Internal·Enterprise·Publication 3가지 버전 제공",
+        "각 버전 연 4회 분기별 업데이트",
+        "GeoJSON 샘플 파일 공개, 가격은 페이지에 명시 안 됨",
+        "Enterprise는 자회사·파트너, Publication은 제한적 게시 허용"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "ko": "Gemini, 개인 Drive 파일·메일을 사람 검토자에게 전달 주장",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50429426",
+      "score": 307,
+      "sum": [
+        "개인 GitHub 저장소 글, 작성자의 검증 안 된 주장",
+        "구글이 10월 16일 글 수정해 2023년 약속을 뒤집었다고 주장",
+        "Gemini가 @ 언급 없이도 연결된 파일을 가져온다고 설명",
+        "비공식 테스트에서 계정·확인 번호가 포함된 사례 언급"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Claude Fable 5.2, Artificial Analysis에서 역대 최고인 65점 기록",
+      "ko": "Claude Fable 5.2, Artificial Analysis에서 역대 최고인 65점 기록",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36910",
+      "sum": [
+        "지능 지수 65점, 비슷한 가격대 중앙값은 40점",
+        "작업당 44.1분 소요, 중앙값 12.9분보다 김",
+        "지수 평가 작업당 평균 비용 26.54달러",
+        "컨텍스트 창 100만 토큰, 텍스트·이미지 입력"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "e-means - 같은 테스트 오차에 약 10배 빠른 k-means",
+      "ko": "e-means - 같은 테스트 오차에 약 10배 빠른 k-means",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36907",
+      "sum": [
+        "미니배치 갱신에 지수이동평균(EMA)을 결합한 k-means",
+        "Lloyd 25에포크 오차를 1.2~3에포크 만에 넘어섬",
+        "GPU에서 Flash-KMeans보다 10~45배, CPU에서 Faiss보다 8~15배 빠름",
+        "Faiss contrib/e_means에 PyTorch·NumPy 구현 공개"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: Visitown - 방문자가 픽셀 마을을 걸어 다니는 실시간 방문자 분석",
+      "ko": "Show GN: Visitown - 방문자가 픽셀 마을을 걸어 다니는 실시간 방문자 분석",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36911",
+      "sum": [
+        "개인 사이드 프로젝트를 소개하는 Show GN 글",
+        "방문자를 픽셀 캐릭터로, 페이지를 건물로 표시",
+        "SDK 약 7KB, 쿠키·IP 저장 없이 국가 코드만 보관",
+        "베타 기간 무료, 한국어·영어 지원"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+      "ko": "Show HN: 이번 주 어느 장소든 그 상공을 지나간 모든 위성과 위성 사진",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=36909",
+      "sum": [
+        "HN의 Show HN 글(watched.earth)을 긱뉴스가 소개",
+        "지난 1주간 특정 장소 위를 지난 위성과 위성 사진 표시",
+        "댓글: 대부분 지역 공개 이미지 해상도는 약 10m/픽셀",
+        "댓글에서 Sentinel-1 레이더 데이터 추가 제안"
+      ]
+    }
+  ]
+}
