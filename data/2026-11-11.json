@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-11",
+  "weekday": "수요일",
+  "picks": [
+    "DeepMind AlphaProof Code, Signal 프로토콜 코드 형식 검증 (HN 559점)",
+    "Val Town 서비스 종료, 2027년 1월 운영 종료 후 오픈소스화 (HN·긱뉴스)",
+    "Verisign, .name 도메인 2만2천 개 해지 계획 철회 (HN 637점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Smart home devices should work without the internet",
+      "ko": "스마트홈 기기는 인터넷 없이도 작동해야 한다",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50441707",
+      "score": 649,
+      "sum": [
+        "개인 블로그 의견 글, 아마존 제휴 부품 목록 포함",
+        "필자의 첫 규칙 '인터넷 없어도 문제없음' 10년째 유지",
+        "구글 API 변경으로 Nest 연동이 끊긴 사례 언급",
+        "회사 폐업 후 멀쩡한 고기 온도계가 먹통 된 사례도"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": ".name Grandfathered",
+      "ko": "Verisign, .name 도메인 해지 계획 철회",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50442736",
+      "score": 637,
+      "sum": [
+        "Neil Fraser 개인 사이트 소식 글 (11월 10일)",
+        "도메인·이메일 리디렉트 2만2천 개 해지 계획 철회",
+        "3단계 .name 신규 등록은 종료, 기존 것은 계속 유지",
+        "재심 요청 7명·지지 서한 19명·변호사 노력 언급"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AlphaProof Code",
+      "ko": "DeepMind AlphaProof Code, Signal 프로토콜 코드 형식 검증",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50439193",
+      "score": 559,
+      "sum": [
+        "Gemini Carbon 기반 에이전트가 Lean 코드 600만 줄 생성",
+        "코드의 약 1%만 사람 검토 대상, 나머지는 Lean이 자동 검증",
+        "검증에 4주 소요, 기존엔 전문가 팀이 수년 걸리던 작업",
+        "버그 2개 재삽입 시험에서 취약 버전임을 증명"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "ko": "Blender 5.3 출시, 가우시안 스플랫 지원",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50442426",
+      "score": 411,
+      "sum": [
+        "PLY·SPZ·glTF 스플랫 가져와 EEVEE·Cycles 등에서 렌더",
+        "Cycles에 분산(Dispersion), DLSS 4.5 디노이저 추가",
+        "GPU 컴포지터 재생 최대 2배 빨라짐",
+        "Projects, 아웃라이너 정렬, 시퀀서 리플 편집 추가"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AI usage generates a fragile codebase",
+      "ko": "AI 사용이 취약한 코드베이스를 만든다",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50438318",
+      "score": 347,
+      "sum": [
+        "개인 블로그 의견 글, 수치는 일화 수준",
+        "전 Meta 개발자, 말기엔 코드 90% 이상 AI로 생성",
+        "얕은 테스트·과잉 복잡성·이해도 저하를 원인으로 지목",
+        "AI 중심 개발은 대규모에서 지속 불가능하다고 주장"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Val Town is winding down",
+      "ko": "Val Town, 단계적 서비스 종료",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50443427",
+      "score": 281,
+      "sum": [
+        "11월 10일 신규 가입 중단, 12월 10일 읽기 전용 전환",
+        "2027년 1월 10일 서비스 종료, 2월 1일 오픈소스 공개",
+        "결제 중단, 연간 선불은 일부 환불",
+        "클라우드 시장에서 경쟁할 수 없어 종료, 4년 운영"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Synaptics의 특허 침해 주장으로 DisplayLink 드라이버 개발 중단",
+      "ko": "Synaptics 특허 압박에 DisplayLink 오픈 드라이버 중단",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=36962",
+      "sum": [
+        "Rust 기반 리눅스 드라이버 Vino, 개인 개발자 작업",
+        "Synaptics, 특허 125건 첨부해 개발 중단 요구",
+        "미이행 시 2만5천 달러에 주당 같은 금액 추가 통보",
+        "OIN 보호 대상 아님 판단, 저장소 내리고 제출 중단"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show HN: 코딩 에이전트를 2019년 무렵의 JavaScript에서 최신 웹 기본 기능으로 이끌기",
+      "ko": "Show HN: 코딩 에이전트에 최신 웹 기능 가이드 제공",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=36964",
+      "sum": [
+        "Show HN 프로젝트, 구글 Chrome 팀의 스킬 모음",
+        "웹 기능 250개·실사용 사례 203개 가이드 제공",
+        "자체 평가 claude_code 통과율 57%→88%로 상승",
+        "오프라인 검색, 코드 Apache 2.0·가이드 CC BY 4.0"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Toyota 브랜드 Scion이 돌아온다, 미국에서 경트럭 판매 예정",
+      "ko": "Toyota Scion 부활, 미국에 경트럭 KEI-01 판매",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=36966",
+      "sum": [
+        "2016년 종료한 Scion을 실험적 브랜드로 부활",
+        "첫 모델 KEI-01, 660cc 엔진·CVT·4WD 경트럭",
+        "미국 저속차량 기준으로 최고속도 시속 25마일 미만",
+        "2027년 말 업무용 시범사업으로 소량 판매 시작"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "끊임없는 감시가 아이와 부모에게 미치는 영향",
+      "ko": "끊임없는 감시가 아이와 부모에게 미치는 영향",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=36965",
+      "sum": [
+        "The Atlantic 장문 기획 기사 요약",
+        "Life360 월간 활성 이용자 1억200만 명",
+        "14~17세 자녀 부모 4분의 3이 위치 데이터 접근",
+        "관계·정신건강 영향은 연구 적고 결과 엇갈림"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Starlink Mini 2",
+      "ko": "Starlink Mini 2 공개",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=36963",
+      "sum": [
+        "제품 페이지 링크 공유 글, 수치는 HN 댓글 인용",
+        "댓글: 출시 혜택은 1년 약정 999달러 조건",
+        "댓글: 배터리 71Wh, 약 4.5시간 사용 출처 인용",
+        "1세대 Mini는 재고 정리 때 149달러에 판매"
+      ]
+    }
+  ]
+}
