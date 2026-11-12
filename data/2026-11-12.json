@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-12",
+  "weekday": "목요일",
+  "picks": [
+    "Python 'Zen of Python'·Timsort 만든 Tim Peters 별세 (HN 788점)",
+    "WSJ \"Nvidia 이사회, CEO 젠슨 황 축출 준비\" 보도 (HN·긱뉴스)",
+    "AWS, 로컬 AWS API 에뮬레이터 Rust로 공개 (HN 595점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "My AI agents found an unmapped Maya site",
+      "ko": "AI 에이전트로 찾은 마야 유적, 알고 보니 재발견",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50452455",
+      "score": 910,
+      "sum": [
+        "개인 블로그 체험기, 필자는 고고학자 아님을 명시",
+        "NASA 라이다 약 1,200㎢를 에이전트 48개가 판독",
+        "언덕 위 광장·8~12m 피라미드 등 구조물 발견",
+        "11일 업데이트: 2025년 논문에 이미 지도화된 유적"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Tim Peters has died",
+      "ko": "Python 핵심 개발자 Tim Peters 별세",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50450488",
+      "score": 788,
+      "sum": [
+        "귀도 반 로섬이 11월 11일 Python 포럼에 부고 게시",
+        "올해 7월 15일 별세, 'Zen of Python'(PEP 20) 저자",
+        "2002년 Timsort 설계, 이후 Java·Android도 채택",
+        "꼼꼼한 메일링 답변으로 'Timbot' 별명 얻어"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AWS emulator",
+      "ko": "AWS, 로컬 AWS API 에뮬레이터 공개",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50456631",
+      "score": 595,
+      "sum": [
+        "AWS 계정·요금 없이 로컬에서 AWS API 테스트",
+        "Rust 작성, CC0-1.0 라이선스(vendor는 Apache 2.0)",
+        "서버 모드(RPM·deb·Docker)와 Rust 내장 모드 지원",
+        "소스 빌드에 100GB 이상 필요, 텔레메트리 기본 켜짐"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "ko": "오작동 화재경보로 Jane Street 데이터센터 침수 위기",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50455394",
+      "score": 384,
+      "sum": [
+        "전 Jane Street 직원의 개인 블로그 회고담",
+        "공사 먼지로 경보 작동, 연동된 냉방기가 꺼짐",
+        "스프링클러 한계 150°F 앞 약 143.6°F에서 멈춰",
+        "이후 서버 온도 평균을 감시하는 OCaml 모니터 제작"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Nvidia, CEO Jensen Huang 축출 준비 중",
+      "ko": "WSJ \"Nvidia 이사회, 젠슨 황 축출 준비\" 보도",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37013",
+      "score": 306,
+      "sum": [
+        "WSJ 보도의 긱뉴스 요약 (WSJ 원문은 접근 막힘)",
+        "사유는 혼외 관계 2건, 상대 1명은 중국 스파이 의심",
+        "스파이 의혹은 미확인, 익명 소식통 기반 보도",
+        "수요일에 거취 결정 이사회 가능성, HN 306점"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Hyper-Realistic Sand with WebGL2",
+      "ko": "WebGL2로 만든 초사실적 모래 시뮬레이터",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50453288",
+      "score": 286,
+      "sum": [
+        "브라우저에서 돌아가는 인터랙티브 데모 페이지",
+        "WebGL2·JavaScript로 제작, 모바일·데스크톱 지원",
+        "손가락으로 밀기, 폰 기울이기·흔들기로 조작",
+        "붓기·평탄화·그리기 기능, 소리·햅틱 토글"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "United Airlines, AI 에이전트의 여행객 대리 항공편 예약 금지",
+      "ko": "United 항공, AI 에이전트 대리 예약 금지",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37014",
+      "sum": [
+        "CBS News 기사 요약, 승인 안 된 제3자 에이전트 금지",
+        "여행사·검색 서비스 통한 간접 접근도 금지 대상",
+        "정보 노출·의도치 않은 구매·연방 규정 위반 우려",
+        "Kayak·Google Flights 예약은 계속 가능"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: TokenPlant - Claude Code·Codex에 쓴 토큰으로 픽셀 식물을 키우는 macOS 메뉴바 앱",
+      "ko": "Show GN: 토큰 사용량으로 픽셀 식물 키우는 앱",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37012",
+      "sum": [
+        "Show GN 개인 프로젝트, macOS 14+ 메뉴바 앱",
+        "Claude Code·Codex 로컬 로그를 30초마다 읽음",
+        "최근 14일 평균 기준, 28일에 나무 한 그루 완성",
+        "서버·계정 없음, MIT 라이선스, Swift 6"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Gemini Decisions API - 최대 1,000개 질문을 한 번에 평가하는 멀티모달 판단 API",
+      "ko": "구글 Gemini Decisions API 공개",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37011",
+      "sum": [
+        "gemini-decision-1 모델, 정해진 선택지 중 판단",
+        "공유 입력 256K 토큰에 질문 최대 1,000개",
+        "구글 주장 종단 지연 150~250ms (16K 문맥 기준)",
+        "입력 100만 토큰당 0.10달러, 출력 0달러"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "공개 연구로 강화하는 개인정보 보호: Firefox 사용자의 핑거프린팅을 더 어렵게 만들기",
+      "ko": "Firefox, 핑거프린팅 방어 강화",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37010",
+      "sum": [
+        "약 2,500만 명 Firefox 측정값 분석한 연구 기반",
+        "작업표시줄 크기 숨김, CPU 수는 4 또는 8로 보고",
+        "Firefox 145 반영 후 고유 핑거프린트 사용자 감소",
+        "논문은 CCS 2026 게재 승인, 완전 차단은 불가"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Atuin Threads: 모든 머신의 에이전트 세션을 한곳에",
+      "ko": "Atuin Threads, 에이전트 세션 통합 관리",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37009",
+      "sum": [
+        "Atuin 18.24부터 제공, 세션 검색·재개·분기",
+        "Claude Code·Codex·Pi·Omp·OpenCode 지원",
+        "다른 머신·다른 에이전트에서 이어서 작업 가능",
+        "세션 동기화 종단간 암호화, 수집은 옵트인"
+      ]
+    }
+  ]
+}
