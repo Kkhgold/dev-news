@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-13",
+  "weekday": "금요일",
+  "picks": [
+    "\"Jensen Huang resigns\" HN 2,767점 (AP 기사, 원문 접근 막힘)",
+    "Anthropic 나스닥 상장 예정, 티커 ANT·19일 거래 시작 (HN 791점)",
+    "구글 Gemini 4 Hydrogen 공개, 입력 100만 토큰당 1.5달러 (HN·긱뉴스)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Jensen Huang resigns",
+      "ko": "젠슨 황 사임 (AP 보도)",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50467087",
+      "score": 2767,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "AP 기사, 주소에 megaspeed·china·singapore 표기",
+        "전날 WSJ '이사회 축출 준비' 보도에 이은 소식"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Anthropic IPO",
+      "ko": "Anthropic 기업공개(IPO) 안내 페이지",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50465829",
+      "score": 791,
+      "sum": [
+        "나스닥 상장, 티커 ANT, 클래스 A 보통주",
+        "18일 공모가 확정 예정, 19일 거래 시작 예정",
+        "3분기 매출 170억 달러, 전년 대비 12배 이상",
+        "순손실 233억 달러, 이 중 219억은 비현금 비용"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Gemini 4 Hydrogen",
+      "ko": "구글, 빠른 코딩·에이전트용 Gemini 4 Hydrogen 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50471431",
+      "score": 437,
+      "sum": [
+        "구글 공식 블로그, 11월 12일 발표",
+        "Terminal-Bench 4.1 57% (3.8 Flash 18.2%)",
+        "입력 100만 토큰당 1.5달러, 출력 7.5달러",
+        "컨텍스트 100만 토큰, 3.8 Flash보다 약 2.5배 빠름"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Service degradation on Microsoft 365",
+      "ko": "Microsoft 365 서비스 품질 저하",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50471731",
+      "score": 420,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "MS 서비스 상태 페이지 링크, 장애 내용 확인 불가"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "A live tree of systemd jobs on the boot console",
+      "ko": "부팅 화면에 systemd 작업을 실시간 트리로, bootvine",
+      "tag": "오픈소스",
+      "url": "https://news.ycombinator.com/item?id=50425017",
+      "score": 355,
+      "sum": [
+        "부팅 로그 대신 대기 중 유닛을 트리로 표시",
+        "완료 후 가장 느린 유닛 타임라인 제공",
+        "LUKS 암호 입력, 실패 원인 저널 표시 지원",
+        "Rust 85%, systemd 246 이상 필요, GPL-3.0"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Why writing correct software is hard and why math (alone) won't help us (2016)",
+      "ko": "올바른 소프트웨어가 어려운 이유와 수학의 한계 (2016)",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50465352",
+      "score": 348,
+      "sum": [
+        "2016년 개인 블로그 에세이(의견 글)",
+        "검증은 결정 불가능성 때문에 근본적으로 어렵다",
+        "모듈화해도 검증 비용이 일반적으로 줄지 않음",
+        "분산 시스템 치명 장애 92%가 오류 처리 미흡 탓"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "데이터센터에 필요한 전력, 저소득층과 농촌 주민이 대가를 치른다",
+      "ko": "데이터센터 전력 비용, 저소득층·농촌이 떠안아",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37082",
+      "sum": [
+        "코넬대 Nature Energy 연구 소개(GN⁺ 요약)",
+        "2025년 인프라 비용 82.5억 달러 중 DC 부담 38%",
+        "도매 전력가 버지니아 15%, 베이 남부 20% 상승",
+        "최저소득 가구 추가 비용, 소득의 최대 28%"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "태양을 한 바퀴 도는 데 약 280년 걸리는 왜소행성 후보 발견",
+      "ko": "공전 주기 281년 왜소행성 후보 2026 ED138 발견",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37081",
+      "sum": [
+        "베라 루빈 천문대 관측 자료에서 발견",
+        "태양 거리는 지구의 46배, 공전 주기 281.1년",
+        "1937년 하버드 사진 건판에서도 확인",
+        "지름 약 600~1,500km 추정, 왜소행성 확정 전"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: kr-career-skill - 채용 사이트 270 여곳의 공고 검색과 기업분석 및 자소서 초안 작성을 하는 한국 취업·이직용 에이전트 스킬",
+      "ko": "Show GN: 한국 취업·이직용 에이전트 스킬 kr-career-skill",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37079",
+      "sum": [
+        "Show GN, 개발자 직접 소개글",
+        "채용 플랫폼 277곳 지원, 104곳은 스크립트 검색",
+        "한 번 실행당 요청 16회 제한, 1~1.8초 간격",
+        "지원서 대리 제출·경력 날조 안 함"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Gemini 4 Hydrogen과 Orchestrator - Google Antigravity의 새 코딩 모델과 동적 모델 전환 옵션",
+      "ko": "Antigravity에 Hydrogen·Orchestrator 추가",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37077",
+      "sum": [
+        "Orchestrator, 작업 중 Carbon·Hydrogen 자동 전환",
+        "Carbon은 계획, Hydrogen은 수정·테스트 담당",
+        "Carbon급 성공률에 할당량 24%↓, 속도 19%↑",
+        "Orchestrator는 Google AI Ultra 구독자 대상"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show HN: 300달러짜리 자수기에 구독이 필요해서 직접 앱을 만들었다",
+      "ko": "Show HN: 자수기 구독 피하려 만든 편집기 ZigZag",
+      "tag": "오픈소스",
+      "url": "https://news.hada.io/topic?id=37076",
+      "sum": [
+        "Show HN 소개글, Rust로 만든 자수 편집기",
+        "SVG를 바늘땀으로 변환, PES·DST 등 내보내기",
+        "Brother Skitch에 블루투스 직접 전송, 역공학",
+        "MCP 내장, Claude Code·Codex가 함께 편집"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Jane Street의 소프트웨어 엔지니어링 면접이 조금 달라집니다",
+      "ko": "Jane Street, LLM 활용 보는 새 면접 시험 도입",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37075",
+      "sum": [
+        "2026년 여름부터 대학생 현장 면접에서 시험 중",
+        "직접 코딩 비중 줄이고 설계·검증·LLM 활용 평가",
+        "대부분 라운드는 LLM 없는 기존 코딩 면접 유지",
+        "특정 도구나 LLM 사용을 요구하지 않음"
+      ]
+    }
+  ]
+}
