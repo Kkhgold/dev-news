@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-16",
+  "weekday": "월요일",
+  "picks": [
+    "\"AI 생성 코드는 모두 오픈소스여야\" 의견글이 HN 1위 (1,053점)",
+    "MS 365 장애로 이메일 경고 못 받아 호텔 수영장 염소 사고, 15명 피해",
+    "새 맥북 프로 OLED PWM 240Hz 측정, 눈 피로 호소 이어져 (HN 397점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "All AI-generated code should be Open Source",
+      "ko": "모든 AI 생성 코드는 오픈소스여야 한다",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50507303",
+      "score": 1053,
+      "sum": [
+        "저자가 스스로 'hot take'라 밝힌 개인 블로그 의견글",
+        "AI는 출처 표시 없이 오픈소스·SO 글로 학습했다고 주장",
+        "비공개 전환은 '라이선스 세탁'이며 비인간 저작권 불가 판례 근거",
+        "AI 코드를 오픈소스나 CC0로 공개하자고 제안"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "The MacBook Pro's OLED PWM problem",
+      "ko": "맥북 프로 OLED의 PWM 문제",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50506719",
+      "score": 397,
+      "sum": [
+        "새 맥북 프로 탠덤 OLED(PROLED XDR) 사용자 불편 호소 다룬 글",
+        "두통·어지럼·눈 피로 보고, 일부는 반품했다고 전함",
+        "Notebookcheck 측정 PWM 240Hz, 미니LED 모델은 14,880Hz",
+        "저자는 개인 경험일 뿐 모두에게 문제는 아니라고 단서"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+      "ko": "Microsoft 365 장애로 호텔 투숙객 15명 염소가스 중독",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37222",
+      "score": 333,
+      "sum": [
+        "독일 Phantasialand 호텔 수영장 염소 과다 투입 사고 (HN 333점)",
+        "안전 시스템이 이메일 경고를 보냈지만 MS 장애로 미수신",
+        "15명 호흡기 자극, 4명 병원 이송·1명 입원",
+        "원인은 자동 투입 장치 결함, 물 교체 후 재개방"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "ko": "Claude Code·Codex가 3달러 아두이노로 1994년식 지프 ECU 분석 [영상]",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50463399",
+      "score": 310,
+      "sum": [
+        "YouTube 영상으로 설명란이 비어 있어 제목만 정리",
+        "영상 제목: Claude가 32년 된 지프를 리버스 엔지니어링",
+        "이후 차량 제어까지 했다고 제목에 적혀 있음"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+      "ko": "일부 아폴로 임무는 왜 유탄발사기를 실었나 (2019)",
+      "tag": "과학",
+      "url": "https://news.ycombinator.com/item?id=50505271",
+      "score": 221,
+      "sum": [
+        "Space StackExchange의 2019년 Q&A 글",
+        "ALSEP 매뉴얼에 유탄발사기와 수류탄 4발이 실렸다고 기록",
+        "답변: 능동 지진파 탐사 실험용",
+        "크기 아는 폭발로 충격파 전파를 재 지하 구조 추정"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "ko": "최신 LLM의 위치 임베딩 이해하기",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50506376",
+      "score": 191,
+      "sum": [
+        "Sebastian Raschka의 기술 해설 글 (코드·수식 포함)",
+        "GPT-2 절대 위치, 사인 인코딩, RoPE, NoPE 등 비교",
+        "2026년엔 RoPE 모델 중 부분 RoPE가 다수가 됨",
+        "저자는 RoPE가 2027년에도 주류일 것으로 전망"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+      "ko": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=37225",
+      "sum": [
+        "포렌식 잠금 해제 도구 원리를 정리한 기술 분석 글",
+        "핵심 구분은 첫 잠금 해제 전(BFU)·후(AFU) 상태",
+        "6자리 이하 숫자 PIN은 쉽게 복구, 긴 비밀번호가 유효",
+        "가장 효과적인 방어는 전원 끄기, 짧은 자동 재부팅"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "이탈리아, 사진 개인정보 침해로 Meta에 8억 500만 유로 과징금 부과",
+      "ko": "이탈리아, 사진 개인정보 침해로 Meta에 8억 500만 유로 과징금 부과",
+      "tag": "정책",
+      "url": "https://news.hada.io/topic?id=37227",
+      "sum": [
+        "안드로이드 페이스북 앱 갤러리 추천 기능이 대상",
+        "사진·메타데이터 접근 동의·안내가 부족했다고 판단",
+        "이탈리아 이용자 약 2,000만 명 영향",
+        "Meta 연 매출의 약 0.4%, 불복 가능"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "“Duffy는 거짓말했다”: 항공 관제사들, 교통부 장관의 이륙 중단 설명 반박",
+      "ko": "“Duffy는 거짓말했다”: 항공 관제사들, 교통부 장관의 이륙 중단 설명 반박",
+      "tag": "테크",
+      "url": "https://news.hada.io/topic?id=37228",
+      "sum": [
+        "통신 장애로 FAA 전국 이륙 중단, 약 150만 명 영향",
+        "25년 만에 가장 긴 전국 운항 중단",
+        "관제사 60명 취재, 장관의 장비 과부하 설명 불신",
+        "토요일 하루 4,100편 이상 취소"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Emacs는 나의 브라우저",
+      "ko": "Emacs는 나의 브라우저",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37224",
+      "sum": [
+        "Emacs 내장 EWW를 브라우저로 쓰는 개인 블로그 글",
+        "개인 웹 이용의 약 85~90%를 EWW로 처리",
+        "PDF는 pdf-tools, 영상은 mpv로 넘기도록 설정",
+        "로그인·뱅킹·소셜은 일반 브라우저가 필요"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "엘니뇨의 작동 원리를 짧게 설명하는 영상",
+      "ko": "엘니뇨의 작동 원리를 짧게 설명하는 영상",
+      "tag": "과학",
+      "url": "https://news.hada.io/topic?id=37229",
+      "sum": [
+        "YouTube 영상을 소개·요약한 글",
+        "무역풍 약화로 따뜻한 표층수가 동쪽으로 이동",
+        "2026~27년 겨울 미국 지역별 비행 기상 영향 정리",
+        "세부 확인은 NOAA 공식 자료를 권고"
+      ]
+    }
+  ]
+}
