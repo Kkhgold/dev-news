@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-17",
+  "weekday": "화요일",
+  "picks": [
+    "아마존 블프·사이버먼데이 '딜' 3개 중 1개는 할인 없음 (HN 805점)",
+    "체이스 기술 버그로 미국 주요 은행 온라인뱅킹 지연·장애 신고",
+    "CMU, 컴퓨터과학 강의 13개 과목 유튜브 무료 공개 (HN 452점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+      "ko": "아마존 블랙프라이데이·사이버먼데이 '딜' 상당수는 할인 없어",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50517488",
+      "score": 805,
+      "sum": [
+        "Groundwork Collaborative가 2024·2025년 딜 350여 개 조사",
+        "약 3개 중 1개는 직전 한 달 가격과 같거나 더 쌌음",
+        "약 10개 중 1개는 세일 때가 더 비쌌고 중앙값 19% 높아",
+        "직전 30일 최저가 표시 의무화 등 규제 강화 제안"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "ko": "JP모건 체이스 기술 문제로 미국 은행 온라인뱅킹 지연",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50521045",
+      "score": 689,
+      "sum": [
+        "AP 원문 접근이 막혀 긱뉴스 요약(37302) 기준으로 정리",
+        "BoA·체이스·US뱅크·웰스파고·Zelle 장애 신고 (Downdetector)",
+        "체이스는 '기술적 버그'이며 사이버 공격 아니라고 밝힘",
+        "일부 거래 지연됐지만 계좌·자금 접근은 가능하다고 설명"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "ko": "카네기멜런대, 컴퓨터과학 강의 유튜브 무료 공개",
+      "tag": "교육",
+      "url": "https://news.ycombinator.com/item?id=50522980",
+      "score": 452,
+      "sum": [
+        "CMU 'CS Learn', 실제 강의 녹화본을 유튜브에 무료 공개",
+        "11월 8과목(대규모 ML, AI 에이전트 등), 27년 1월 5과목 추가",
+        "자율학습 코스웨어·AI 튜터링은 아직 출시 전 '예정'",
+        "정식 학점·수료증은 유료 CMU Online 통해 별도 제공"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "ko": "죽은 씽크패드 살리는 전원 버튼 비법 (2007)",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50516473",
+      "score": 288,
+      "sum": [
+        "2007년 Mike Masnick 블로그 글, IBM 지원팀이 알려준 방법",
+        "어댑터·배터리 분리 후 전원 1초 간격 10회, 30초 길게 누름",
+        "댓글에 T40~X230 등 다수 성공담, 실패 사례도 있음",
+        "원리는 검증 안 됨, 경험담 모음이라는 점 유의"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "ko": "Jiff 1.0: 러스트 날짜·시간 라이브러리",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50519744",
+      "score": 284,
+      "sum": [
+        "Andrew Gallant(BurntSushi)가 11월 15일 1.0 발표",
+        "시간대 중심 API, JS Temporal에서 큰 영향 받은 설계",
+        "1.0을 무기한 유지 목표, 호환성 깨는 릴리스는 드물 예정",
+        "uv·Cargo·Starship·Jujutsu 등 9개 프로젝트가 사용 중"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Frame – 31.5\" color ePaper display",
+      "ko": "Frame – 31.5인치 컬러 전자종이 디스플레이",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50519354",
+      "score": 269,
+      "sum": [
+        "TRMNL의 제품 소개 글(자사 홍보), 긱뉴스에도 소개됨",
+        "31.5인치 컬러 전자종이, 미국 조지아에서 수제 목재 케이스",
+        "정해진 시각에 갱신, 10~20k mAh 배터리, microSD 오프라인",
+        "1차 약 470대 예약, 대부분 2027년 초 배송, 가격 미표기"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "소프트웨어가 구조적으로 무너지고 있다",
+      "ko": "소프트웨어가 구조적으로 무너지고 있다",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37303",
+      "score": 0,
+      "sum": [
+        "Breck McKye 블로그 의견 에세이를 GN⁺가 요약",
+        "MS 이틀 장애, NPM 공급망 침해 등 2026년 사고 사례 제시",
+        "AI 변경 누적으로 시스템 이해가 흐려지는 '탈일관성' 주장",
+        "HN 댓글은 과장됐다, AI 연관 근거 약하다는 반론도"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Nvidia는 젠슨 황 논란 이전부터 어려움을 겪고 있었다",
+      "ko": "Nvidia는 젠슨 황 논란 이전부터 어려움을 겪고 있었다",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37301",
+      "score": 0,
+      "sum": [
+        "Wired 기사 기반 분석, 황 사임 후 CFO가 회사 운영 중이라 전함",
+        "AI 가속기 매출 점유율 약 80%, AMD는 7~10%로 상승",
+        "중국 매출 비중 2024년 20%에서 8%로 하락",
+        "AI 코드 이식으로 CUDA 종속 약화 우려 제기"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "다트머스대, 2027년 가을 수학 박사과정 신입생 모집 중단",
+      "ko": "다트머스대, 2027년 가을 수학 박사과정 신입생 모집 중단",
+      "tag": "교육",
+      "url": "https://news.hada.io/topic?id=37300",
+      "score": 0,
+      "sum": [
+        "학과 검토 중 모집 중단, 재개 여부·시점은 미공개",
+        "통상 연 7~9명 선발, 이미 낸 지원서도 심사 안 함",
+        "재학생 지원은 유지되나 조교 부담은 연 2→3학기로 늘어",
+        "총장은 대학 지출 5,000만 달러 감축 추진 중"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "태양광 패널이 설치된 들판에서 양 방목하기",
+      "ko": "태양광 패널이 설치된 들판에서 양 방목하기",
+      "tag": "과학",
+      "url": "https://news.hada.io/topic?id=37305",
+      "score": 0,
+      "sum": [
+        "코넬대 3년 연구, 태양광 농장 양 방목 밀도별 비교",
+        "ha당 2마리면 유익 곤충 38%·꿀벌 83% 증가",
+        "ha당 8마리면 잡초 관리 최고지만 꿀벌 45% 감소",
+        "농가용 양 매매 결정 모델도 함께 발표"
+      ]
+    }
+  ]
+}
