@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-18",
+  "weekday": "수요일",
+  "picks": [
+    "Java4Shell: OpenJDK Base64 디코더 인증 없는 RCE, CVSS 9.2 (HN 394점)",
+    "MS, MAI Code 2 공개… 작업당 0.309달러로 GPT-6.1 Sol 절반 이하",
+    "엔비디아, 싱가포르 매출 1,040억 달러 시점에 지역 매출 공개 중단"
+  ],
+  "items": [
+    {
+      "src": "HN+GN",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "ko": "Java4Shell: OpenJDK Base64 처리 중 원격 코드 실행 취약점",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50538240",
+      "score": 394,
+      "sum": [
+        "x86-64 AVX-512 Base64 인트린직에서 힙 메모리 손상, CVSS 9.2",
+        "OpenJDK 17.0.6 이상·AVX-512 VBMI CPU 해당, ARM64 무관",
+        "Keycloak·Jira·Jenkins 등 기본 설정서 인증 전 RCE 시연",
+        "11/17 패치 공개, 임시로 -XX:-UseBASE64Intrinsics 옵션"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "ko": "학교 휴대폰 금지가 시험 점수를 점차 높인다는 새 증거",
+      "tag": "사회",
+      "url": "https://news.ycombinator.com/item?id=50530163",
+      "score": 1135,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리 (NYT Upshot 기사)",
+        "학교 휴대폰 금지 후 시험 점수가 점진적으로 개선됐다는 내용"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "GPT‑6.2 Astra and Sol",
+      "ko": "OpenAI, GPT-6.2 Astra와 Sol 발표",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50535230",
+      "score": 1026,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리 (OpenAI 공식 발표, 403)",
+        "GPT-6.2 계열 Astra·Sol 두 모델 공개"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Apple Services Down",
+      "ko": "애플 서비스 장애",
+      "tag": "테크",
+      "url": "https://news.ycombinator.com/item?id=50535238",
+      "score": 608,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리 (애플 개발자 시스템 상태 페이지)",
+        "애플 서비스 장애 관련 HN 토론"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Highly classified US national security communications network goes down",
+      "ko": "미국 최고 기밀 국가안보 통신망 다운",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50532849",
+      "score": 427,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리 (CNN 기사, 451)",
+        "미국 고도 기밀 국가안보 통신 네트워크가 중단됐다는 보도"
+      ]
+    },
+    {
+      "src": "HN+GN",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "ko": "엔비디아, 싱가포르 매출 1,040억 달러 시점에 공개 중단",
+      "tag": "비즈니스",
+      "url": "https://news.hada.io/topic?id=37367",
+      "score": 342,
+      "sum": [
+        "FT 원문은 막혀 긱뉴스 요약 기준으로 정리",
+        "지역 매출 기준을 청구지→본사 소재지로 바꿔 싱가포르 미공개",
+        "2025년 싱가포르 법인 매출 1,040억 달러, 12개월간 72% 증가",
+        "미국, Megaspeed의 중국 칩 밀수 관여 조사 중"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "MAI Code 2와 Code 2 Flash - 일상적인 기업 코딩의 가격 대비 성능에 초점을 맞춘 모델",
+      "ko": "MS, 코딩 모델 MAI Code 2·Code 2 Flash 공개",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37368",
+      "score": null,
+      "sum": [
+        "Microsoft AI 발표, GitHub Copilot에서 사용 가능",
+        "Code 2 평균 통과율 63.2%·작업당 0.309달러 (GPT-6.1 Sol 0.761)",
+        "Flash 61.0%·작업당 0.052달러, GPT-6 Luna 55.1%보다 높아",
+        "블라인드 프런트엔드 평가 258명 중 64%가 Code 2 선호"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "jQuery 4.1.0 - 폼 연결 커스텀 요소 지원과 선택자 ReDoS 수정",
+      "ko": "jQuery 4.1.0 출시",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37372",
+      "score": null,
+      "sum": [
+        "직렬화 모듈에 폼 연결 커스텀 요소 지원 추가",
+        "jqXHR에 responseURL 필드 추가",
+        "선택자 식별자 매칭 ReDoS 취약점 수정",
+        "Safari 27 정규식 버그 우회, XML용 createElementNS 사용"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Phrack 73호 공개, 보안 연구와 해킹 문화를 다루는 매거진",
+      "ko": "해킹 매거진 Phrack 73호 공개",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=37371",
+      "score": null,
+      "sum": [
+        "새 운영진의 세 번째 호, 주요 논문 23편·Line Noise 8편",
+        "vDSO 컨테이너 탈출, Skia 통한 Chromium 샌드박스 탈출 수록",
+        "PhrackCTF에서 나온 WinFSP 제로데이 2건 연구 포함"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "허점은 못된 놈들이나 이용하는 것",
+      "ko": "에세이: 허점은 못된 사람들이나 이용한다",
+      "tag": "에세이",
+      "url": "https://news.hada.io/topic?id=37369",
+      "score": null,
+      "sum": [
+        "개인 윤리관을 담은 에세이",
+        "단속 안 돼도 하지 말아야 할 행동이 있다는 주장",
+        "상점 입구 앞 인도 주차를 '영리함 아닌 못된 행동'으로 예시"
+      ]
+    }
+  ]
+}
