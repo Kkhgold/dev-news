@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-19",
+  "weekday": "목요일",
+  "picks": [
+    "Nginx HTTP/2 인증 없는 RCE 2건, CVSS 9.2… 1.30.7/1.31.9로 패치 (HN 1058점)",
+    "구글 Gemini 4 Neon 공개, 100만 토큰·입력 3달러/출력 15달러",
+    "Quad9, 해적 차단 명령 벌금에 11/24부터 프랑스 DNS 응답 중단"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "ko": "Nginx에서 인증 없는 원격 코드 실행 취약점",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50547374",
+      "score": 1058,
+      "sum": [
+        "Wiz 발표: HTTP/2 관련 CVE 2건, 둘 다 CVSS 4.0 9.2",
+        "UAF(1.19.7~1.31.8)·send_window 언더플로(1.9.5~1.31.8)",
+        "언더플로는 HTTP/2 켠 기본 설정에서도 악용 가능",
+        "1.30.7·1.31.9 패치, 임시로 http2 off 권고"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "ko": "DNS 리졸버는 불법복제와 싸울 곳이 아니다",
+      "tag": "인터넷",
+      "url": "https://news.ycombinator.com/item?id=50545958",
+      "score": 568,
+      "sum": [
+        "Quad9, 11/24부터 프랑스발 DNS 질의에 응답 중단",
+        "beIN 요청 차단 거부로 파리 법원이 하루 1,000유로 벌금",
+        "Arcom: 2022년 이후 스포츠 도메인 12,606개 차단",
+        "프랑스 이용자 20%가 대체 DNS, 29%가 VPN 사용"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Inside Deutsche Bank",
+      "ko": "도이체방크 내부 — 1,500만 건 유출 문서 국제 공동취재",
+      "tag": "사회",
+      "url": "https://news.ycombinator.com/item?id=50547620",
+      "score": 523,
+      "sum": [
+        "1,500만 건 넘는 유출 파일 기반 탐사보도 프로젝트",
+        "FT·NYT·르몽드·슈피겔 등 수십 개 매체 참여",
+        "조 로우 관련 24건 1억 7,298만 유로 거래 의혹 등",
+        "유출 문서상 의혹이며, 은행 측 반론 섹션도 있음"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Seven new models at scalable price-performance",
+      "ko": "MS, Ignite 2026에서 MAI 신규 모델 7종 발표",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50548021",
+      "score": 412,
+      "sum": [
+        "MAI Code 2: GPT-6.1 Sol 성능 98%를 약 40% 가격에(MS 주장)",
+        "MAI Code 2·Flash는 GitHub Copilot에서 사용 가능",
+        "MAI Realtime 1: 첫 음성-음성 모델, 분당 0.01달러부터",
+        "MAI Image 2.7, AA 이미지 편집 1위 / 라우터 Decision 1.1"
+      ]
+    },
+    {
+      "src": "HN+GN",
+      "title": "Gemini 4 Neon",
+      "ko": "구글, 추론·코딩용 Gemini 4 Neon 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50552424",
+      "score": 334,
+      "sum": [
+        "100만 토큰 컨텍스트, 입력 3달러·출력 15달러(100만 토큰당)",
+        "AA 지능 지수 61(3위), 코딩 에이전트 지수 58.6로 1위",
+        "Terminal-Bench 4.1 65.2%, 사고 수준 4단계(기본 high)",
+        "AI Studio·Antigravity·Gemini 앱 Pro/Ultra에 제공"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "ko": "감사 시험에서 AI 에이전트가 KPMG 회계사보다 나은 질문",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50547777",
+      "score": 318,
+      "sum": [
+        "KPMG UK, AI 에이전트 100개 이상으로 FTSE 250 재무제표 검토",
+        "약 4개월 개발, 정식 법정 감사는 아님",
+        "규정 매칭 실패로 사람이 한 번 개입",
+        "최대 20건 대형 감사로 확대 예정, 대규모 적용은 아직"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Claude는 대규모 단백질 서열로 학습됐다",
+      "ko": "Claude는 대규모 단백질 서열로 학습됐다",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37436",
+      "score": null,
+      "sum": [
+        "Fable 5.2, 실제 서열 다음 아미노산 54% 적중(셔플 9%)",
+        "GPT·Gemini·오픈 모델 7종은 두 조건 차이 거의 없음",
+        "Pfam 167계열 단백질 668개, 절단점 3,340개로 평가",
+        "API 비용 약 730달러, 코드·데이터 GitHub 공개"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "KVM: x86: INIT 에뮬레이션 시 MMU 컨텍스트를 무조건 초기화하도록 수정(CVE-2026-99312)",
+      "ko": "KVM x86 INIT 시 MMU 무조건 초기화 수정 (CVE-2026-99312)",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=37435",
+      "score": null,
+      "sum": [
+        "L2가 CR0.PG=0일 때 INIT로 L1이 낡은 MMU로 실행 가능",
+        "중첩 SVM에만 해당, VMX는 INIT를 항상 가로챔",
+        "페이징 여부 무관하게 INIT마다 MMU 초기화로 수정"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Tencent Hy4 Flash - 100만 토큰 컨텍스트를 지원하는 저비용 멀티모달 모델",
+      "ko": "텐센트 Hy4 Flash, 100만 토큰 저비용 멀티모달 모델",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37434",
+      "score": null,
+      "sum": [
+        "총 2,240억·활성 120억 파라미터, 가중치 공개",
+        "100만 토큰당 입력 0.07달러·출력 0.281달러",
+        "KV 캐시 Hy4의 1/6, 작업당 비용 1/20(자사 발표)",
+        "WorkBuddy 11/30까지 무료, OpenRouter 등 제공"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Google Gemini의 개인 비서 기능 ‘Tasks’, 이제 무료로 제공",
+      "ko": "Gemini 개인 비서 'Tasks' 무료 제공",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37433",
+      "score": null,
+      "sum": [
+        "구글 제품 발표 소개글: 한국 포함 6개국 무료 배포",
+        "Gemini 4 Hydrogen 사용, 일부 기능은 미국 먼저",
+        "AP2 결제·지출 한도, 구매 전 확인 요청",
+        "60개 이상 앱 연결, 일부 사이트는 최종 클릭 직접"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Genie 4, Project Genie에서 이용 가능 - 실시간 세계 수정과 오디오 생성 지원",
+      "ko": "Genie 4, Project Genie 제공 — 실시간 세계 수정·오디오",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37431",
+      "score": null,
+      "sum": [
+        "Google AI Ultra 대상 제공, Pro는 대기 명단",
+        "탐색 중 프롬프트로 날씨·캐릭터 변경, 실시간 오디오",
+        "Genie 3 탐색 시간 60초→최대 3분으로 확대",
+        "연구용 프로토타입, 모든 출력에 SynthID 워터마크"
+      ]
+    }
+  ]
+}
