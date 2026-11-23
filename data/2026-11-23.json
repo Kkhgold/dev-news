@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-23",
+  "weekday": "월요일",
+  "picks": [
+    "도요타·닛산·혼다, 비용 절감 위해 부품 표준화 (HN 1172점)",
+    "분석: 2028년 Anthropic 전력 87% 가스·11% 석탄 추정 (HN 854점)",
+    "OpenAI 수석과학자, 모델 비교 지표로 perplexity 제안·내부 수치 공개"
+  ],
+  "items": [
+    {
+      "src": "HN", "title": "Toyota, Nissan, and Honda to standardize parts to lower costs", "ko": "도요타·닛산·혼다, 비용 절감 위해 부품 표준화", "tag": "산업",
+      "url": "https://news.ycombinator.com/item?id=50596133", "score": 1172,
+      "sum": ["원문 접근이 막혀 제목만 정리", "Car and Driver 기사: 일본 3사 부품 표준화로 비용 절감"]
+    },
+    {
+      "src": "HN", "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028", "ko": "2028년 Anthropic 전력 87% 가스·11% 석탄 전망", "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50597612", "score": 854,
+      "sum": [
+        "Better Data Center Project 사례 분석, 수치는 단체 추정치",
+        "2026년 10월 기준 Anthropic 계약 컴퓨트 15GW",
+        "계약 전력 약 25%(2.5GW)는 현장 가스 발전",
+        "2028년 CO2 배출 중간값 연 3,200만 톤 추정"
+      ]
+    },
+    {
+      "src": "HN", "title": "Sandwich Simulator", "ko": "샌드위치 시뮬레이터", "tag": "재미",
+      "url": "https://news.ycombinator.com/item?id=50594911", "score": 564,
+      "sum": [
+        "독일어 웹 장난감 'Stullensimulator'(오픈 샌드위치)",
+        "버터·누텔라·간 소시지 등 스프레드 선택",
+        "치즈·살라미부터 감자칩·젤리곰까지 토핑 조합"
+      ]
+    },
+    {
+      "src": "HN", "title": "Perplexity and Intelligence", "ko": "퍼플렉서티와 지능", "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50601525", "score": 447,
+      "sum": [
+        "OpenAI 수석과학자 Jakub Pachocki 블로그 글",
+        "개발사 비교 지표로 log-perplexity 제안, 내부 수치 공개",
+        "GPT-3.5 약 0.99, GPT-4 약 0.91, 0.8 미만서 새 능력",
+        "수치 기반 '공통 한계'를 업계가 넘지 않도록 약속 제안"
+      ]
+    },
+    {
+      "src": "HN", "title": "What Happened to Silicon Valley?", "ko": "실리콘밸리에 무슨 일이 일어났나", "tag": "업계",
+      "url": "https://news.ycombinator.com/item?id=50602947", "score": 346,
+      "sum": [
+        "Tim O'Reilly 에세이, 존스홉킨스 강연(10월 16일) 각색",
+        "O'Reilly는 500달러로 시작, 벤처 투자 안 받아",
+        "아마존 검색 결과에 광고 16개·자연 결과 4개라고 지적",
+        "테슬라 이익 1달러가 시가총액 약 600달러로 평가 사례"
+      ]
+    },
+    {
+      "src": "HN+GN", "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife", "ko": "GTA 6의 새들: 바이스 시티 탐조 가이드", "tag": "게임",
+      "url": "https://news.ycombinator.com/item?id=50602843", "score": 301,
+      "sum": [
+        "Audubon 매거진 기고자의 유머러스한 게임 탐조기",
+        "게임 내 조류 60종, 스토리 진행 없이 모두 관찰 가능",
+        "약 8시간에 50종, 다음 날 60번째 원숭이올빼미 발견",
+        "현실 멸종위기종 미국흰두루미가 게임에선 흔함"
+      ]
+    },
+    {
+      "src": "GN", "title": "Show HN: The Riemann Proof Handbook - 리만 가설의 Lean 증명 코드를 수학으로 풀어 쓴 책", "ko": "리만 가설 Lean 증명 코드를 풀어 쓴 핸드북", "tag": "수학",
+      "url": "https://news.hada.io/topic?id=37665", "score": null,
+      "sum": [
+        "Show HN 프로젝트, PDF·EPUB으로 배포",
+        "0~12권 구성, 3~12권이 Lean 코드 해설",
+        "전체 Lean 빌드·코드 대조 안 됨, 독립 검증 아님 명시",
+        "본문 CC BY 4.0, 빌더 MIT 라이선스"
+      ]
+    },
+    {
+      "src": "GN", "title": "AI가 기후에 재앙이 되어가고 있다", "ko": "AI가 기후에 재앙이 되어가고 있다", "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37664", "score": null,
+      "sum": [
+        "Blood in the Machine 글, 데이터센터 배출 연구·보도 정리",
+        "미국 대형 데이터센터 403곳, 연 CO₂ 2,570만 톤 추정",
+        "해당 시설 전력의 54%가 화석연료",
+        "Anthropic-OnePWR 1.7GW 발전기 계약, 연 600만 톤 예상"
+      ]
+    },
+    {
+      "src": "GN", "title": "이산 푸리에 변환(DFT)에 관한 노트", "ko": "이산 푸리에 변환(DFT)에 관한 노트", "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37663", "score": null,
+      "sum": [
+        "Eli Bendersky 기술 블로그 튜토리얼",
+        "12샘플 삼각파 예제로 NumPy DFT 설명",
+        "FFT로 계산량 O(N²)→O(N log N)",
+        "주파수가 빈과 안 맞으면 스펙트럼 누설 발생"
+      ]
+    },
+    {
+      "src": "GN", "title": "테스트를 위한 더 나은 어휘", "ko": "테스트를 위한 더 나은 어휘", "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37662", "score": null,
+      "sum": [
+        "소프트웨어 테스트 용어 체계를 제안하는 에세이",
+        "범위를 구조(함수~시스템)와 상태 유무 두 축으로 구분",
+        "오라클 4종: 사람·예제/스냅샷·assert·보편 속성",
+        "Hypothesis·proptest 등 속성 기반 테스트 도구 소개"
+      ]
+    },
+    {
+      "src": "GN", "title": "NTP Pool에 합류했지만, Stratum 1 Pi를 직접 연결하지는 않음", "ko": "NTP Pool 합류, Stratum 1 Pi는 직접 연결 안 함", "tag": "인프라",
+      "url": "https://news.hada.io/topic?id=37661", "score": null,
+      "sum": [
+        "Jeff Geerling 개인 블로그 운영기",
+        "WireGuard로 Stratum 1 Pi와 VPS(Stratum 2) 연결",
+        "11월 16일 무인 커널 업데이트로 서버 중단",
+        "250Mbit 상향 후 초당 500~600 요청 처리"
+      ]
+    }
+  ]
+}
