@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-24",
+  "weekday": "화요일",
+  "picks": [
+    "엔비디아, 사임 11일 만에 젠슨 황 CEO 복귀…주가 31% 급등 (HN 1위 1,941점)",
+    "자체 엔진 브라우저 Ladybird, macOS·Linux 알파 공개 (HN 1,307점)",
+    "Arm 법적 압박에 AArch64 레퍼런스 사이트 12월 4일 종료 (긱뉴스·HN 784점)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "ko": "엔비디아, 젠슨 황 CEO 복귀 결정",
+      "tag": "업계",
+      "url": "https://news.ycombinator.com/item?id=50611576",
+      "score": 1941,
+      "sum": [
+        "이사회 만장일치로 젠슨 황 CEO 즉시 복귀 결정 (CNBC)",
+        "황은 불륜 보도 여파로 11월 13일 CEO직 사임했었음",
+        "복귀 발표 후 주가 31% 상승, 앞서 약 33% 하락했었음",
+        "12월 1일 하원 비공개 면담, 3일 상원 청문회 증언 예정"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Ladybird is now in alpha",
+      "ko": "Ladybird 브라우저 알파 공개",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50614249",
+      "score": 1307,
+      "sum": [
+        "포크가 아닌 자체 엔진 브라우저, macOS·Linux용 알파 배포",
+        "자동 업데이트되는 롤링 채널, 이전엔 소스 빌드만 가능",
+        "브라우저 안에서 깨진 사이트 신고, 크래시 리포트 선택 전송",
+        "보안은 아직 보장 못 한다고 명시, WebDriver 지원"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "ko": "GLM-5.4: 첫 루프 트랜스포머로 범용 코딩 지향",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50609685",
+      "score": 1024,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "Z.ai가 GLM-5.4 모델을 블로그로 공개",
+        "제목상 회사의 첫 '루프 트랜스포머' 구조 모델"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "ko": "얀 르쿤 \"다리오가 위험 부풀려 오픈소스 모델 막으려 해\"",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50615308",
+      "score": 993,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "얀 르쿤의 X(트위터) 게시글, 개인 의견 글",
+        "Anthropic 다리오 아모데이의 AI 위험 주장을 비판하는 내용"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "ko": "인터넷 아카이브 잊힌 영상으로 만든 무료 TV 채널",
+      "tag": "재미",
+      "url": "https://news.ycombinator.com/item?id=50606192",
+      "score": 924,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리",
+        "서비스명 SPELUNKR, 소개 문구 'Cable TV, but weirder'",
+        "인터넷 아카이브 영상으로 구성한 무료 대안 TV"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "ko": "Arm 요청으로 AArch64 레퍼런스 사이트 12월 4일 종료",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50617499",
+      "score": 784,
+      "sum": [
+        "개인이 운영한 Armv8-A·v9-A 명령어·레지스터 참조 사이트",
+        "Arm 변호사가 폐쇄 안 하면 법적 조치하겠다고 통보",
+        "Base·SIMD·SVE·SME 명령어, AArch64·32 레지스터 수록",
+        "운영자는 기존 북마크·링크 유지 방안 검토 중"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "모든 체에서 VP ≠ VNP",
+      "ko": "모든 체에서 VP ≠ VNP",
+      "tag": "수학",
+      "url": "https://news.hada.io/topic?id=37736",
+      "sum": [
+        "내부 연구용 Claude 모델이 찾은 VP·VNP 분리 결과 공개",
+        "논문과 Lean 4 형식화 모두 AI가 작성, 인간 검토는 아직",
+        "퍼머넌트 회로 게이트 수 초다항 하한 증명 주장",
+        "P 대 NP 문제를 푼 것은 아니라고 명시, Apache 2.0"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "SSH 키를 디스크에 보관하지 말자",
+      "ko": "SSH 키를 디스크에 보관하지 말자",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37734",
+      "sum": [
+        "디스크의 SSH 개인 키는 악성코드 스캔으로 유출 가능",
+        "Bitwarden SSH 에이전트로 옮겨 키 파일 삭제 (개인 블로그)",
+        "Git 커밋·태그 서명도 SSH 키로, 서명·push 키 분리",
+        "금고 잠금 4시간, 몇 주 사용에 큰 불편 없었다고 함"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: PQ-Proof - PQC 전환이 끝났는지 전환 전후 코드를 비교해 판정하는 오프라인 도구",
+      "ko": "Show GN: PQ-Proof - 코드 비교로 PQC 전환 완료 판정",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37733",
+      "sum": [
+        "작성자 직접 소개(Show GN), MIT 라이선스 오픈소스",
+        "전환 전후 코드 8가지 검사로 PASS·FAIL·미판정 판정",
+        "AI·네트워크 미사용, 해시 검증 가능한 증적 폴더 생성",
+        "정적 분석 한계 명시, 성능·운영 규모 결과는 아직 없음"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Apple, 9년간 운영한 내 오픈소스 앱을 EU App Store에서 삭제",
+      "ko": "Apple, 9년 된 오픈소스 앱을 EU App Store에서 삭제",
+      "tag": "업계",
+      "url": "https://news.hada.io/topic?id=37732",
+      "sum": [
+        "오픈소스 메모 앱 FSNotes, 유럽 전역 App Store서 삭제",
+        "10월 판매 대금 미지급, 11월 5일·17일 문의에도 무응답",
+        "DSA 정보·우크라이나 사업자 서류 제출, 검토 여부 불명",
+        "GitHub 무료 배포는 계속, 서류 검토 기회 요청 (개발자 호소문)"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "“Arm의 요청에 따라 이 사이트는 2026년 12월 4일 운영을 종료합니다”",
+      "ko": "Arm 요청으로 AArch64 레퍼런스 사이트 종료 예정",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37731",
+      "sum": [
+        "HN 동일 이슈, Jon's Arm Reference 12월 4일 종료",
+        "운영자 댓글: Arm이 상표·지식재산권 이유로 삭제 요구",
+        "검색 기능은 WebAssembly 기반으로 동작",
+        "링크 유지 여부는 아직 확정되지 않음"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show GN: WebDecoy Node SDK - Node.js에서 봇 탐지 규칙을 로컬로 검증",
+      "ko": "Show GN: WebDecoy Node SDK - 봇 탐지 규칙 로컬 검증",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37730",
+      "sum": [
+        "WebDecoy 팀의 자사 프로젝트 소개(Show GN), MIT TypeScript",
+        "차단 켜기 전 Express 예제로 로컬 규칙 반응 확인",
+        "모니터 모드는 200, 차단 모드는 SDK가 403 반환",
+        "v0.29.0, Node.js v26.5.0에서 확인, StackBlitz 예제 제공"
+      ]
+    }
+  ]
+}
