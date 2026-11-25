@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-25",
+  "weekday": "수요일",
+  "picks": [
+    "\"LLM 에이전트는 사용자 아닌 제공사를 위해 일한다\" 에세이가 HN 1위 (874점)",
+    "Anthropic 주가, 상장 4거래일 만에 공모가 83달러 아래로 (긱뉴스·HN 315점)",
+    "Microsoft, Exchange Online 사상 최대 장애 뒤 'Code Red' 선언 (긱뉴스)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "LLM agents work for their parent companies, not for you",
+      "ko": "LLM 에이전트는 당신이 아니라 모회사를 위해 일한다",
+      "tag": "에세이",
+      "url": "https://news.ycombinator.com/item?id=50627340",
+      "score": 874,
+      "sum": [
+        "개인 블로그 의견 에세이 (11월 1일 게시)",
+        "Claude Code로 만든 Bandcamp 검색 스킬이 챌린지 추가로 멈춤",
+        "모델은 우회를 거절했지만 YouTube 곡 다운로드는 수행했다고 주장",
+        "AI는 제공사 허용 범위에서만 일한다며 로컬 모델을 원한다고 밝힘"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Quad9 pulled their DNS service from France",
+      "ko": "Quad9, 프랑스에서 DNS 서비스 중단",
+      "tag": "인터넷",
+      "url": "https://news.ycombinator.com/item?id=50625384",
+      "score": 336,
+      "sum": [
+        "Quad9 공식 공지: 11월 24일 09시(파리)부터 프랑스 쿼리 전면 거부",
+        "beIn의 해적 스트리밍 도메인 차단 요구를 법원이 인정, 벌금 부과",
+        "사용자 판별은 geoIP 기반이라 부정확하다고 인정",
+        "독일 드레스덴 법원 Sony 사건에서는 승소했다고 언급"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "The Spray Bottle",
+      "ko": "스프레이 병은 어떻게 작동하나 (인터랙티브 해설)",
+      "tag": "재미",
+      "url": "https://news.ycombinator.com/item?id=50598555",
+      "score": 327,
+      "sum": [
+        "판매 페이지가 아닌 공학 원리 일러스트 해설 콘텐츠",
+        "현대식 스프레이 병은 1970년대 초 등장",
+        "모든 스프레이 병은 같은 일방향 밸브 구조를 사용",
+        "트리거·피스톤·플러그·스프링 부품을 애니메이션으로 설명"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Anthropic breaks below $83 IPO price",
+      "ko": "Anthropic 주가, 공모가 83달러 아래로 하락",
+      "tag": "업계",
+      "url": "https://news.ycombinator.com/item?id=50627836",
+      "score": 315,
+      "sum": [
+        "Bloomberg 원문은 접근이 막혀 긱뉴스 요약 기준으로 정리",
+        "상장 4거래일째 개장 전 거래에서 81.28달러까지 하락",
+        "장중 공모가보다 9% 가까이 낮아졌다 일부 회복",
+        "화요일 오후 1시 18분 기준 81.04달러, 2.4% 하락"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Ternary Bonsai 2.5 27B",
+      "ko": "Ternary Bonsai 2.5 27B - 5.9GB 로컬 에이전트 코딩 모델",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50633922",
+      "score": 278,
+      "sum": [
+        "PrismML 제품 발표, Qwen3.8 27B 기반으로 5.9GB 크기 유지",
+        "SWE-bench Verified 60.8→75.6, AppWorld 51.2→90.5 (자체 측정)",
+        "H100에서 초당 291토큰, RTX 4090에서 204토큰 생성",
+        "llama.cpp·MLX 지원, 가중치 Apache 2.0 공개"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "GTA 6 Running on Windows",
+      "ko": "GTA 6가 Windows에서 실행된다는 주장",
+      "tag": "게임",
+      "url": "https://news.ycombinator.com/item?id=50627783",
+      "score": 251,
+      "sum": [
+        "X 게시물 링크로, 검증 자료 없는 짧은 주장",
+        "PC에서 실행 중이며 셰이더도 거의 완성됐다고 밝힘",
+        "운영체제·성능 수치는 게시물에 없음",
+        "HN 댓글은 VIctory·xcl 프로젝트와 Xbox판 유출을 언급"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "ko": "Check Point 보안 관리 서버 대상 침입 캠페인 진행 중",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50630594",
+      "score": 251,
+      "sum": [
+        "GreyNoise 위협 분석: 10월 17일~11월 2일 최소 22개 조직 피해",
+        "GT13으로 추적, IP 99개 사용, 대한민국도 피해국에 포함",
+        "CVE-2026-16232로 100개 이상 관리 작업, 내부 CA 복사",
+        "LLM·에이전트 활용은 작성자의 '의심' 단계"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "ko": "OpenAI, GPT-6의 단백질 설계 능력 발표",
+      "tag": "과학",
+      "url": "https://news.ycombinator.com/item?id=50634658",
+      "score": 123,
+      "sum": [
+        "OpenAI 연구 발표, 특수 생물학 모델 없이 추론·코드로 설계 주장",
+        "미니바인더 322개 실험 중 35개(10.9%)가 표적 결합",
+        "PoseBusters 도킹 93%로 DiffDock-L 50%보다 높음",
+        "구조 예측 TM-score 0.26으로 ESMFold2 0.93에 못 미침"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Microsoft, 대규모 장애 이후 ‘Code Red’ 선언…내부 메모로 드러난 대응 문제",
+      "ko": "Microsoft, 대규모 장애 이후 ‘Code Red’ 선언",
+      "tag": "인프라",
+      "url": "https://news.hada.io/topic?id=37797",
+      "sum": [
+        "Reuters 보도: 11월 12~13일 Outlook·Teams·Copilot 등 장애",
+        "원인은 7월 도입된 Windows 확장성 결함, 나델라 공개 사과",
+        "Teams 채팅방 11개에서 메시지 1만 1,000건, 진단 정보 분산",
+        "향후 장애를 전 세계 1시간 내 해결 목표로 5개 작업 흐름"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "유휴 컴퓨팅 자원으로 로컬 모델을 학습시키는 엔진",
+      "ko": "유휴 컴퓨팅 자원으로 로컬 모델을 학습시키는 엔진 (Songe)",
+      "tag": "오픈소스",
+      "url": "https://news.hada.io/topic?id=37798",
+      "sum": [
+        "오픈소스 Songe: 도구 결과·오류·사용자 수정을 기록해 학습",
+        "Quick Dream은 몇 분, Deep Dream은 어댑터 훈련에 1시간 이상",
+        "평가에서 개선될 때만 적용, 롤백 가능, 데이터는 로컬 보관",
+        "Ollama·vLLM 등 지원, MLX·PyTorch 훈련, Apache-2.0"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Ask HN: Anthropic이 우리 회사가 모델 증류를 한다고 하는데, 아니라는 걸 어떻게 입증할 수 있을까요?",
+      "ko": "Ask HN: Anthropic의 모델 증류 의심, 어떻게 반박하나",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37794",
+      "sum": [
+        "Ask HN 질문 글을 긱뉴스가 요약",
+        "자체 모델 학습은 안 했다며 입증 시한 24시간을 받았다고 함",
+        "의심 원인은 설정 변경 시 자동 회귀 벤치마크로 추정",
+        "사용자 개인정보를 지키며 입증할 방법을 묻는 내용"
+      ]
+    }
+  ]
+}
