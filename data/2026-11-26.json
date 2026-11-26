@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-26",
+  "weekday": "목요일",
+  "picks": [
+    "1Password, 직원 GitHub 계정 탈취로 일부 고객 정보 유출 공지 (HN 1위 1,046점)",
+    "애런슨 블로그, OpenAI의 'ω=9/4' 주장 등 AI 수학 성과에 흥분 (HN 785점·긱뉴스)",
+    "GitHub 8개 서비스 약 1시간 장애, DB 부하가 원인 (긱뉴스)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "1Password Security Incident",
+      "ko": "1Password 보안 사고 업데이트",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50644817",
+      "score": 1046,
+      "sum": [
+        "공식 블로그 공지(11/25), 11/19부터 조사 시작",
+        "직원 GitHub 계정 탈취 후 백엔드에 악성 코드 배포",
+        "일부 사용자 이름·이메일·공개키·SRP 파라미터 유출",
+        "볼트 내용은 접근 안 됨, 복구 코드 6자리→10자리로 강화"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "ko": "세상에, 세상에…: 지금 벌어지는 일의 엄청난 규모 (긱뉴스에도 소개)",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50646108",
+      "score": 785,
+      "sum": [
+        "스콧 애런슨의 개인 블로그 의견 글(11/25)",
+        "OpenAI가 11/24 행렬곱 지수 ω=9/4라는 프리프린트 공개",
+        "푸리에 변환 게이트 수가 FFT의 N log N보다 낮다는 주장도",
+        "글쓴이가 소개한 주장이며 독립 검증된 결과는 아님"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "ko": "구글, Cogentic이 만든 정수 인수분해 등 논문 공개",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50642086",
+      "score": 432,
+      "sum": [
+        "google-research 저장소에 'Cogentic이 만든' 논문 10편 게시",
+        "11/25분 6편, 정수 인수분해 L_N[1/3] 알고리즘 논문 포함",
+        "Log-Rank 추측, 내시 균형 근사 등 이론 CS 주제",
+        "Apache 2.0, README에 '구글 공식 제품 아님' 명시"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "ko": "홈디포 빗물 저류지에서 스노클링한 사람과의 인터뷰",
+      "tag": "기타",
+      "url": "https://news.ycombinator.com/item?id=50643129",
+      "score": 422,
+      "sum": [
+        "원문 접근이 막혀 제목만 정리 (Vox 기사)"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "ko": "윈도우 '음량 평준화'를 역공학해 PipeWire로 이식",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50641171",
+      "score": 305,
+      "sum": [
+        "오픈소스 프로젝트 README, 앱별 음량을 고르게 맞춤",
+        "WMALFXGFXDSP.dll 역공학, 리미터는 AudioEng.dll에서 이식",
+        "PipeWire 1.4 이상 필요, 최대 +20dB 부스트",
+        "JACK·8채널 초과·일부 Flatpak 앱은 처리 안 됨"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Smart people who give a shit use tools",
+      "ko": "똑똑하고 진심으로 책임지는 사람들은 도구를 쓴다 (긱뉴스에도 소개)",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50639698",
+      "score": 256,
+      "sum": [
+        "Mercury 엔지니어 Ian K. Duncan의 의견 에세이",
+        "'최근 대형 장애는 AI 대체 탓'이라는 글에 반론",
+        "AI 도구가 장애의 주원인이라는 주장에 동의하지 않음",
+        "x86 손코딩 인력 감소와 시스템 규모 성장을 비교"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "GitHub 제품 전반의 서비스 저하 조사",
+      "ko": "GitHub 제품 전반의 서비스 저하 조사",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37849",
+      "sum": [
+        "GitHub 상태 페이지 장애 기록 요약 (11/25 UTC)",
+        "Git·Actions·PR·Pages 등 8개 서비스 저하",
+        "15:55 조사 시작, 16:52 해결 공지",
+        "DB 부하 분산 조정으로 완화, 근본 원인은 추후 공개"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Lean으로 Clojure 코어를 검사해 미보고 버그 17개를 발견함",
+      "ko": "Lean으로 Clojure 코어를 검사해 미보고 버그 17개를 발견함",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37848",
+      "sum": [
+        "기술 블로그 글 요약, Clojure 1.12.7·JDK 21 대상",
+        "Lean 모델 검증+차등 테스트로 미보고 버그 17개 발견",
+        "vector-of의 reduce가 원소 65,505개 이상서 무한 루프",
+        "(byte 127.9)는 예외, identity 거치면 127 반환"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "LLM으로 문서 없는 9달러 AliExpress ‘YP3’ MP3 플레이어에 Rockbox 포팅하기",
+      "ko": "LLM으로 문서 없는 9달러 AliExpress ‘YP3’ MP3 플레이어에 Rockbox 포팅하기",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37853",
+      "sum": [
+        "개인 프로젝트 블로그 글 요약, 기기값 배송 포함 9.71달러",
+        "RAM 512KiB·플래시 2MB 기기, 부팅·재생까지 약 1주",
+        "MP3 320kbps, FLAC 24비트/96kHz 지원",
+        "Rockbox 유선 재생 20.07시간(순정 21.29시간)"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "여섯 가지 사실로 보는 거시경제사",
+      "ko": "여섯 가지 사실로 보는 거시경제사",
+      "tag": "기타",
+      "url": "https://news.hada.io/topic?id=37852",
+      "sum": [
+        "경제학자 Basil Halperin의 교육용 에세이 요약",
+        "미국 1인당 GDP, 약 150년간 연 2% 안팎 성장",
+        "세계 GDP 2배 기간: 약 10만 년 → 현대 약 35년",
+        "소득·삶의 만족도는 상관관계일 뿐이라고 명시"
+      ]
+    }
+  ]
+}
