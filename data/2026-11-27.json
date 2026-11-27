@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-27",
+  "weekday": "금요일",
+  "picks": [
+    "애런슨, OpenAI의 ω=9/4 증명 주장에 흥분한 블로그 글 HN 1위 (1,970점)",
+    "1Password, 직원 GitHub 계정 탈취로 고객 이름·이메일 유출 (HN 1,626점)",
+    "Google, 2027년 2월부터 AI 에이전트 Workspace 접근에 자사 MCP 의무화 (긱뉴스)"
+  ],
+  "items": [
+    {
+      "src": "HN",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "ko": "세상에, 세상에…: 지금 벌어지는 일의 엄청난 규모",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50646108",
+      "score": 1970,
+      "sum": [
+        "스콧 애런슨의 개인 블로그 의견 글",
+        "OpenAI가 행렬곱 지수 ω=9/4 하한 증명을 주장",
+        "푸리에 변환 선형 게이트 수 N(log N)^½ 상·하한도 주장",
+        "AI 활용 수학 성과를 망원경 발명에 비유, 독립 검증 전"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "1Password Security Incident",
+      "ko": "1Password 보안 사고 업데이트",
+      "tag": "보안",
+      "url": "https://news.ycombinator.com/item?id=50644817",
+      "score": 1626,
+      "sum": [
+        "11/19부터 직원 회사 GitHub 계정 탈취 정황 조사",
+        "악성 코드로 일부 고객 이름·이메일·메타데이터 유출",
+        "소스 코드 복사·CI/CD 접근, 자격증명 전부 교체",
+        "볼트 데이터는 안전, 복구 코드 6자리→영숫자 10자리"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Tell HN: Happy Thanksgiving",
+      "ko": "HN에 전하는 추수감사절 인사",
+      "tag": "기타",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "score": 563,
+      "sum": [
+        "링크 없는 Tell HN 인사 글 (기사 아님)",
+        "친구·가족과 좋은 하루 보내라는 짧은 메시지",
+        "댓글 130여 개가 달린 커뮤니티 잡담 스레드"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Intel One Mono font (2023)",
+      "ko": "인텔 원 모노 글꼴 (2023년 공개)",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50653667",
+      "score": 448,
+      "sum": [
+        "인텔의 오픈소스(OFL) 개발자용 고정폭 글꼴",
+        "저시력 개발자 가독성 위해 Frere-Jones Type 디자인",
+        "저시력·법적 맹인 개발자 패널이 단계별 피드백",
+        "4가지 굵기+이탤릭, 라틴 문자 200여 개 언어 지원"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "Nextcloud Office Desktop app",
+      "ko": "Nextcloud Office 데스크톱 앱 출시",
+      "tag": "개발",
+      "url": "https://news.ycombinator.com/item?id=50654289",
+      "score": 393,
+      "sum": [
+        "Nextcloud 공식 블로그 출시 소개 글(11/13)",
+        "유럽산 오피스 Euro-Office 기반 무료 오픈소스 앱",
+        "Windows·macOS·Linux, 문서·표·발표·PDF 편집",
+        "오프라인 작업, Nextcloud Hub 연결 시 실시간 공동편집"
+      ]
+    },
+    {
+      "src": "HN",
+      "title": "AMD-specific fork of llama.cpp",
+      "ko": "llama.cpp의 AMD 특화 포크 (긱뉴스에도 소개)",
+      "tag": "AI",
+      "url": "https://news.ycombinator.com/item?id=50657265",
+      "score": 265,
+      "sum": [
+        "개인 블로그의 llama-cpp-rdna-boosts 사용 후기",
+        "llama.cpp 고정 커밋에 소규모 AMD 패치를 재적용",
+        "프리필 700→1,300, 생성 35→55토큰/초 (환경별 상이)",
+        "Strata 등은 전문가 선택을 바꿔 속도 높인다고 비판"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Google, AI 에이전트에 자사 MCP 서버 사용 의무화 예정… Gmail 서버는 이메일 발송 불가",
+      "ko": "Google, AI 에이전트에 자사 MCP 서버 사용 의무화 예정… Gmail 서버는 이메일 발송 불가",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37919",
+      "sum": [
+        "2027년 2월 1일부터 AI의 Workspace 접근에 MCP 의무화",
+        "공개 Gmail MCP는 검색·읽기·초안만, 발송은 파트너 전용",
+        "Workspace 데이터 파생 임베딩 등 보존 30일 제한 가능",
+        "무료 등급은 제품별 프로젝트당 하루 5,000 요청"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "OpenAI가 비용 통제 모드에 들어갔을 가능성",
+      "ko": "OpenAI가 비용 통제 모드에 들어갔을 가능성",
+      "tag": "AI",
+      "url": "https://news.hada.io/topic?id=37922",
+      "sum": [
+        "혹평받은 Astra 6.2·Sol 6.2의 대결 데이터 분석 글",
+        "작업당 출력·추론 토큰 감소, p<0.05로 유의",
+        "비용 절감용 조정 가능성 제기, OpenAI 의도는 미확인"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "‘RansomwareHelp’ CTO, 통신 사기 혐의로 기소",
+      "ko": "‘RansomwareHelp’ CTO, 통신 사기 혐의로 기소",
+      "tag": "보안",
+      "url": "https://news.hada.io/topic?id=37920",
+      "sum": [
+        "복구업체 CTO, 몰래 공격자에게 복호화 키 구매 혐의",
+        "독자 기술 복원이라 홍보, 미수행 작업도 청구",
+        "FBI 위장 수사: 키 약 6,000달러, 청구액 16,010달러"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "Show HN: Fuck_data_brokers.py - 데이터 브로커에 개인정보 삭제를 요청하는 Python 도구",
+      "ko": "Show HN: 데이터 브로커에 개인정보 삭제를 요청하는 Python 도구",
+      "tag": "개발",
+      "url": "https://news.hada.io/topic?id=37923",
+      "sum": [
+        "Show HN 소개 글, 단일 Python 파일·의존성·AI 없음",
+        "미국 공식 등록부 750여 업체에 삭제 요청서 작성",
+        "거주지 법률 맞춤, 답변 대응·재촉·민원 안내까지",
+        "실제 삭제 여부는 검증하지 않음"
+      ]
+    },
+    {
+      "src": "GN",
+      "title": "YouTube Ad Punisher - 광고가 재생되면 YouTube 페이지를 자동으로 새로고침",
+      "ko": "YouTube Ad Punisher - 광고가 재생되면 YouTube 페이지를 자동으로 새로고침",
+      "tag": "기타",
+      "url": "https://news.hada.io/topic?id=37921",
+      "sum": [
+        "광고 감지 시 위치 저장 후 새로고침하는 브라우저 확장",
+        "차단 대신 재로딩, 보통 1~2회 뒤 광고 없이 재생 주장",
+        "광고주·길이 등 감지한 광고를 로컬에 기록"
+      ]
+    }
+  ]
+}
